@@ -49,7 +49,7 @@ Use this command to perform a final SEO optimization pass on completed articles 
 ### Link Optimization
 
 #### Internal Links (3-5+ required)
-- **Quantity**: Count current internal links to your company content
+- **Quantity**: Count current internal links to Wise Step content
 - **Quality**: Verify links are contextually relevant
 - **Anchor Text**: Check for keyword-rich, descriptive anchor text
 - **Placement**: Natural integration within body content
@@ -81,8 +81,8 @@ Use this command to perform a final SEO optimization pass on completed articles 
 - **Length**: 50-60 characters (check current length)
 - **Keyword**: Primary keyword included naturally
 - **Compelling**: Attention-grabbing and click-worthy
-- **Brand**: Consider adding "| your company" if space allows
-- **Uniqueness**: Distinct from other your company page titles
+- **Brand**: Consider adding "| Wise Step" if space allows
+- **Uniqueness**: Distinct from other Wise Step page titles
 
 **Provide**:
 - Current meta title analysis
@@ -135,11 +135,11 @@ Use this command to perform a final SEO optimization pass on completed articles 
 
 ### Brand & Voice
 
-#### your company Alignment
+#### Wise Step Alignment
 - **Brand Voice**: Verify alignment with @context/brand-voice.md
 - **Style Guide**: Check adherence to @context/style-guide.md
-- **Messaging**: Ensure messaging reflects your company positioning
-- **Product Mentions**: Natural integration of your company features
+- **Messaging**: Ensure messaging reflects Wise Step positioning
+- **Product Mentions**: Natural integration of Wise Step service lines
 - **CTA**: Appropriate call-to-action for article intent
 
 #### User Experience
@@ -240,7 +240,7 @@ After optimization analysis, save report to:
 - **File Format**: Markdown with scores, checklists, and recommendations
 - **Naming Convention**: Use article slug + "optimization-report" + date
 
-Example: `drafts/optimization-report-podcast-analytics-2025-10-15.md`
+Example: `drafts/optimization-report-headhunting-romania-2026-08-12.md`
 
 ## Integration with Agents
 The `/optimize` command triggers final review from all agents:
@@ -265,4 +265,4 @@ Based on optimization score:
 - **70-79**: Fair - address priority fixes before publishing
 - **Below 70**: Needs work - significant improvements required
 
-This ensures every article meets your company quality standards and SEO best practices before going live.
+This ensures every article meets Wise Step's quality standards and SEO best practices before going live.

@@ -1,0 +1,1691 @@
+{
+  "measured": "2026-08-21T15:10:00.293170",
+  "cost_usd": 0.44999999999999996,
+  "clusters": [
+    "2",
+    "7",
+    "8"
+  ],
+  "results": {
+    "Romania|en": [
+      {
+        "cluster": "2",
+        "keyword": "hire machine learning engineers",
+        "search_volume": 10,
+        "competition": null,
+        "competition_index": null,
+        "cpc": null,
+        "low_bid": null,
+        "high_bid": null
+      },
+      {
+        "cluster": "2",
+        "keyword": "data engineer recruitment",
+        "search_volume": 0,
+        "competition": null,
+        "competition_index": null,
+        "cpc": null,
+        "low_bid": null,
+        "high_bid": null
+      },
+      {
+        "cluster": "2",
+        "keyword": "ai engineer hiring",
+        "search_volume": 10,
+        "competition": null,
+        "competition_index": null,
+        "cpc": null,
+        "low_bid": null,
+        "high_bid": null
+      },
+      {
+        "cluster": "2",
+        "keyword": "mlops recruitment",
+        "search_volume": null,
+        "competition": null,
+        "competition_index": null,
+        "cpc": null,
+        "low_bid": null,
+        "high_bid": null
+      },
+      {
+        "cluster": "2",
+        "keyword": "data scientist recruitment",
+        "search_volume": 0,
+        "competition": null,
+        "competition_index": null,
+        "cpc": null,
+        "low_bid": null,
+        "high_bid": null
+      },
+      {
+        "cluster": "2",
+        "keyword": "data science recruitment",
+        "search_volume": 0,
+        "competition": null,
+        "competition_index": null,
+        "cpc": null,
+        "low_bid": null,
+        "high_bid": null
+      },
+      {
+        "cluster": "2",
+        "keyword": "ai recruitment romania",
+        "search_volume": null,
+        "competition": null,
+        "competition_index": null,
+        "cpc": null,
+        "low_bid": null,
+        "high_bid": null
+      },
+      {
+        "cluster": "2",
+        "keyword": "how to hire a machine learning engineer",
+        "search_volume": 0,
+        "competition": null,
+        "competition_index": null,
+        "cpc": null,
+        "low_bid": null,
+        "high_bid": null
+      },
+      {
+        "cluster": "2",
+        "keyword": "where to find data engineers",
+        "search_volume": null,
+        "competition": null,
+        "competition_index": null,
+        "cpc": null,
+        "low_bid": null,
+        "high_bid": null
+      },
+      {
+        "cluster": "2",
+        "keyword": "recruiting ai talent in europe",
+        "search_volume": null,
+        "competition": null,
+        "competition_index": null,
+        "cpc": null,
+        "low_bid": null,
+        "high_bid": null
+      },
+      {
+        "cluster": "2",
+        "keyword": "how to assess an ml engineer",
+        "search_volume": null,
+        "competition": null,
+        "competition_index": null,
+        "cpc": null,
+        "low_bid": null,
+        "high_bid": null
+      },
+      {
+        "cluster": "2",
+        "keyword": "hiring data science teams",
+        "search_volume": null,
+        "competition": null,
+        "competition_index": null,
+        "cpc": null,
+        "low_bid": null,
+        "high_bid": null
+      },
+      {
+        "cluster": "2",
+        "keyword": "ml engineer salary romania",
+        "search_volume": null,
+        "competition": null,
+        "competition_index": null,
+        "cpc": null,
+        "low_bid": null,
+        "high_bid": null
+      },
+      {
+        "cluster": "2",
+        "keyword": "data engineer vs data scientist",
+        "search_volume": 20,
+        "competition": "LOW",
+        "competition_index": 6,
+        "cpc": null,
+        "low_bid": null,
+        "high_bid": null
+      },
+      {
+        "cluster": "2",
+        "keyword": "applied ai engineer hiring",
+        "search_volume": null,
+        "competition": null,
+        "competition_index": null,
+        "cpc": null,
+        "low_bid": null,
+        "high_bid": null
+      },
+      {
+        "cluster": "7",
+        "keyword": "ai native engineering",
+        "search_volume": 10,
+        "competition": "LOW",
+        "competition_index": 10,
+        "cpc": null,
+        "low_bid": null,
+        "high_bid": null
+      },
+      {
+        "cluster": "7",
+        "keyword": "forward deployed engineer",
+        "search_volume": 140,
+        "competition": "LOW",
+        "competition_index": 15,
+        "cpc": 11.66,
+        "low_bid": 3.22,
+        "high_bid": 43.37
+      },
+      {
+        "cluster": "7",
+        "keyword": "what is a forward deployed engineer",
+        "search_volume": 10,
+        "competition": "LOW",
+        "competition_index": 12,
+        "cpc": null,
+        "low_bid": 0.45,
+        "high_bid": 54.08
+      },
+      {
+        "cluster": "7",
+        "keyword": "how to hire a forward deployed engineer",
+        "search_volume": null,
+        "competition": null,
+        "competition_index": null,
+        "cpc": null,
+        "low_bid": null,
+        "high_bid": null
+      },
+      {
+        "cluster": "7",
+        "keyword": "applied ai engineer",
+        "search_volume": 10,
+        "competition": "MEDIUM",
+        "competition_index": 37,
+        "cpc": 1.89,
+        "low_bid": 1.23,
+        "high_bid": 10.75
+      },
+      {
+        "cluster": "7",
+        "keyword": "what is an applied ai engineer",
+        "search_volume": 10,
+        "competition": "LOW",
+        "competition_index": 0,
+        "cpc": null,
+        "low_bid": null,
+        "high_bid": null
+      },
+      {
+        "cluster": "7",
+        "keyword": "ai native startup hiring",
+        "search_volume": null,
+        "competition": null,
+        "competition_index": null,
+        "cpc": null,
+        "low_bid": null,
+        "high_bid": null
+      },
+      {
+        "cluster": "7",
+        "keyword": "new engineering roles",
+        "search_volume": null,
+        "competition": null,
+        "competition_index": null,
+        "cpc": null,
+        "low_bid": null,
+        "high_bid": null
+      },
+      {
+        "cluster": "7",
+        "keyword": "hiring for ai first teams",
+        "search_volume": null,
+        "competition": null,
+        "competition_index": null,
+        "cpc": null,
+        "low_bid": null,
+        "high_bid": null
+      },
+      {
+        "cluster": "7",
+        "keyword": "new tech roles 2026",
+        "search_volume": null,
+        "competition": null,
+        "competition_index": null,
+        "cpc": null,
+        "low_bid": null,
+        "high_bid": null
+      },
+      {
+        "cluster": "7",
+        "keyword": "how ai is changing engineering hiring",
+        "search_volume": null,
+        "competition": null,
+        "competition_index": null,
+        "cpc": null,
+        "low_bid": null,
+        "high_bid": null
+      },
+      {
+        "cluster": "7",
+        "keyword": "ai engineer skills",
+        "search_volume": 10,
+        "competition": "MEDIUM",
+        "competition_index": 36,
+        "cpc": 0.85,
+        "low_bid": null,
+        "high_bid": null
+      },
+      {
+        "cluster": "8",
+        "keyword": "eu ai act recruitment",
+        "search_volume": 10,
+        "competition": "LOW",
+        "competition_index": 0,
+        "cpc": null,
+        "low_bid": null,
+        "high_bid": null
+      },
+      {
+        "cluster": "8",
+        "keyword": "eu ai act hiring",
+        "search_volume": 10,
+        "competition": null,
+        "competition_index": null,
+        "cpc": null,
+        "low_bid": null,
+        "high_bid": null
+      },
+      {
+        "cluster": "8",
+        "keyword": "ai in recruitment regulation",
+        "search_volume": null,
+        "competition": null,
+        "competition_index": null,
+        "cpc": null,
+        "low_bid": null,
+        "high_bid": null
+      },
+      {
+        "cluster": "8",
+        "keyword": "ats friendly cv",
+        "search_volume": 70,
+        "competition": "MEDIUM",
+        "competition_index": 47,
+        "cpc": 2.18,
+        "low_bid": 0.37,
+        "high_bid": 1.45
+      },
+      {
+        "cluster": "8",
+        "keyword": "how to pass ats",
+        "search_volume": 10,
+        "competition": "MEDIUM",
+        "competition_index": 43,
+        "cpc": 1.58,
+        "low_bid": null,
+        "high_bid": null
+      },
+      {
+        "cluster": "8",
+        "keyword": "ats resume format",
+        "search_volume": 10,
+        "competition": "MEDIUM",
+        "competition_index": 50,
+        "cpc": 0.24,
+        "low_bid": null,
+        "high_bid": null
+      },
+      {
+        "cluster": "8",
+        "keyword": "tech cv tips",
+        "search_volume": null,
+        "competition": null,
+        "competition_index": null,
+        "cpc": null,
+        "low_bid": null,
+        "high_bid": null
+      },
+      {
+        "cluster": "8",
+        "keyword": "is ai hiring legal",
+        "search_volume": null,
+        "competition": null,
+        "competition_index": null,
+        "cpc": null,
+        "low_bid": null,
+        "high_bid": null
+      },
+      {
+        "cluster": "8",
+        "keyword": "ai hiring compliance",
+        "search_volume": null,
+        "competition": null,
+        "competition_index": null,
+        "cpc": null,
+        "low_bid": null,
+        "high_bid": null
+      },
+      {
+        "cluster": "8",
+        "keyword": "ats cv checker",
+        "search_volume": 140,
+        "competition": "MEDIUM",
+        "competition_index": 62,
+        "cpc": 0.91,
+        "low_bid": 0.11,
+        "high_bid": 1.09
+      },
+      {
+        "cluster": "8",
+        "keyword": "cv for software engineer",
+        "search_volume": 20,
+        "competition": "LOW",
+        "competition_index": 12,
+        "cpc": null,
+        "low_bid": null,
+        "high_bid": null
+      }
+    ],
+    "Romania|ro": [
+      {
+        "cluster": "2",
+        "keyword": "recrutare data science",
+        "search_volume": null,
+        "competition": null,
+        "competition_index": null,
+        "cpc": null,
+        "low_bid": null,
+        "high_bid": null
+      },
+      {
+        "cluster": "2",
+        "keyword": "inginer machine learning",
+        "search_volume": null,
+        "competition": null,
+        "competition_index": null,
+        "cpc": null,
+        "low_bid": null,
+        "high_bid": null
+      },
+      {
+        "cluster": "2",
+        "keyword": "salariu data scientist",
+        "search_volume": null,
+        "competition": null,
+        "competition_index": null,
+        "cpc": null,
+        "low_bid": null,
+        "high_bid": null
+      },
+      {
+        "cluster": "2",
+        "keyword": "salariu inginer ml",
+        "search_volume": null,
+        "competition": null,
+        "competition_index": null,
+        "cpc": null,
+        "low_bid": null,
+        "high_bid": null
+      },
+      {
+        "cluster": "2",
+        "keyword": "recrutare ai",
+        "search_volume": null,
+        "competition": null,
+        "competition_index": null,
+        "cpc": null,
+        "low_bid": null,
+        "high_bid": null
+      },
+      {
+        "cluster": "2",
+        "keyword": "job data scientist romania",
+        "search_volume": null,
+        "competition": null,
+        "competition_index": null,
+        "cpc": null,
+        "low_bid": null,
+        "high_bid": null
+      },
+      {
+        "cluster": "7",
+        "keyword": "inginer ai",
+        "search_volume": null,
+        "competition": null,
+        "competition_index": null,
+        "cpc": null,
+        "low_bid": null,
+        "high_bid": null
+      },
+      {
+        "cluster": "7",
+        "keyword": "roluri noi in it",
+        "search_volume": null,
+        "competition": null,
+        "competition_index": null,
+        "cpc": null,
+        "low_bid": null,
+        "high_bid": null
+      },
+      {
+        "cluster": "7",
+        "keyword": "meserii viitor it",
+        "search_volume": null,
+        "competition": null,
+        "competition_index": null,
+        "cpc": null,
+        "low_bid": null,
+        "high_bid": null
+      },
+      {
+        "cluster": "8",
+        "keyword": "cv ats",
+        "search_volume": 90,
+        "competition": "MEDIUM",
+        "competition_index": 51,
+        "cpc": 1.88,
+        "low_bid": 0.46,
+        "high_bid": 1.61
+      },
+      {
+        "cluster": "8",
+        "keyword": "cv optimizat pentru ats",
+        "search_volume": null,
+        "competition": null,
+        "competition_index": null,
+        "cpc": null,
+        "low_bid": null,
+        "high_bid": null
+      },
+      {
+        "cluster": "8",
+        "keyword": "cum sa scrii un cv",
+        "search_volume": null,
+        "competition": null,
+        "competition_index": null,
+        "cpc": null,
+        "low_bid": null,
+        "high_bid": null
+      },
+      {
+        "cluster": "8",
+        "keyword": "eu ai act",
+        "search_volume": 480,
+        "competition": "MEDIUM",
+        "competition_index": 36,
+        "cpc": 3.39,
+        "low_bid": 0.47,
+        "high_bid": 4.99
+      },
+      {
+        "cluster": "8",
+        "keyword": "cv programator",
+        "search_volume": 10,
+        "competition": "MEDIUM",
+        "competition_index": 57,
+        "cpc": 0.9,
+        "low_bid": 0.38,
+        "high_bid": 0.87
+      },
+      {
+        "cluster": "8",
+        "keyword": "model cv",
+        "search_volume": 8100,
+        "competition": "MEDIUM",
+        "competition_index": 59,
+        "cpc": 1.32,
+        "low_bid": 0.27,
+        "high_bid": 1.19
+      }
+    ],
+    "United Kingdom|en": [
+      {
+        "cluster": "2",
+        "keyword": "hire machine learning engineers",
+        "search_volume": 20,
+        "competition": "LOW",
+        "competition_index": 6,
+        "cpc": null,
+        "low_bid": null,
+        "high_bid": null
+      },
+      {
+        "cluster": "2",
+        "keyword": "data engineer recruitment",
+        "search_volume": 20,
+        "competition": "MEDIUM",
+        "competition_index": 66,
+        "cpc": 3.67,
+        "low_bid": 0.72,
+        "high_bid": 4.86
+      },
+      {
+        "cluster": "2",
+        "keyword": "ai engineer hiring",
+        "search_volume": 10,
+        "competition": "HIGH",
+        "competition_index": 71,
+        "cpc": 7.19,
+        "low_bid": null,
+        "high_bid": null
+      },
+      {
+        "cluster": "2",
+        "keyword": "mlops recruitment",
+        "search_volume": null,
+        "competition": null,
+        "competition_index": null,
+        "cpc": null,
+        "low_bid": null,
+        "high_bid": null
+      },
+      {
+        "cluster": "2",
+        "keyword": "data scientist recruitment",
+        "search_volume": 50,
+        "competition": "LOW",
+        "competition_index": 13,
+        "cpc": 1.59,
+        "low_bid": 0.76,
+        "high_bid": 6.21
+      },
+      {
+        "cluster": "2",
+        "keyword": "data science recruitment",
+        "search_volume": 50,
+        "competition": "LOW",
+        "competition_index": 13,
+        "cpc": 1.59,
+        "low_bid": 0.76,
+        "high_bid": 6.21
+      },
+      {
+        "cluster": "2",
+        "keyword": "ai recruitment romania",
+        "search_volume": null,
+        "competition": null,
+        "competition_index": null,
+        "cpc": null,
+        "low_bid": null,
+        "high_bid": null
+      },
+      {
+        "cluster": "2",
+        "keyword": "how to hire a machine learning engineer",
+        "search_volume": 10,
+        "competition": null,
+        "competition_index": null,
+        "cpc": null,
+        "low_bid": null,
+        "high_bid": null
+      },
+      {
+        "cluster": "2",
+        "keyword": "where to find data engineers",
+        "search_volume": null,
+        "competition": null,
+        "competition_index": null,
+        "cpc": null,
+        "low_bid": null,
+        "high_bid": null
+      },
+      {
+        "cluster": "2",
+        "keyword": "recruiting ai talent in europe",
+        "search_volume": null,
+        "competition": null,
+        "competition_index": null,
+        "cpc": null,
+        "low_bid": null,
+        "high_bid": null
+      },
+      {
+        "cluster": "2",
+        "keyword": "how to assess an ml engineer",
+        "search_volume": null,
+        "competition": null,
+        "competition_index": null,
+        "cpc": null,
+        "low_bid": null,
+        "high_bid": null
+      },
+      {
+        "cluster": "2",
+        "keyword": "hiring data science teams",
+        "search_volume": null,
+        "competition": null,
+        "competition_index": null,
+        "cpc": null,
+        "low_bid": null,
+        "high_bid": null
+      },
+      {
+        "cluster": "2",
+        "keyword": "ml engineer salary romania",
+        "search_volume": null,
+        "competition": null,
+        "competition_index": null,
+        "cpc": null,
+        "low_bid": null,
+        "high_bid": null
+      },
+      {
+        "cluster": "2",
+        "keyword": "data engineer vs data scientist",
+        "search_volume": 260,
+        "competition": "LOW",
+        "competition_index": 10,
+        "cpc": 0.8,
+        "low_bid": 0.19,
+        "high_bid": 3.79
+      },
+      {
+        "cluster": "2",
+        "keyword": "applied ai engineer hiring",
+        "search_volume": null,
+        "competition": null,
+        "competition_index": null,
+        "cpc": null,
+        "low_bid": null,
+        "high_bid": null
+      },
+      {
+        "cluster": "7",
+        "keyword": "ai native engineering",
+        "search_volume": 30,
+        "competition": "MEDIUM",
+        "competition_index": 50,
+        "cpc": 5.87,
+        "low_bid": 5.32,
+        "high_bid": 60.93
+      },
+      {
+        "cluster": "7",
+        "keyword": "forward deployed engineer",
+        "search_volume": 2400,
+        "competition": "LOW",
+        "competition_index": 13,
+        "cpc": 6.99,
+        "low_bid": 1.61,
+        "high_bid": 9.71
+      },
+      {
+        "cluster": "7",
+        "keyword": "what is a forward deployed engineer",
+        "search_volume": 320,
+        "competition": "LOW",
+        "competition_index": 4,
+        "cpc": 1.93,
+        "low_bid": 0.1,
+        "high_bid": 4.44
+      },
+      {
+        "cluster": "7",
+        "keyword": "how to hire a forward deployed engineer",
+        "search_volume": null,
+        "competition": null,
+        "competition_index": null,
+        "cpc": null,
+        "low_bid": null,
+        "high_bid": null
+      },
+      {
+        "cluster": "7",
+        "keyword": "applied ai engineer",
+        "search_volume": 140,
+        "competition": "LOW",
+        "competition_index": 29,
+        "cpc": 7.69,
+        "low_bid": 1.65,
+        "high_bid": 9.63
+      },
+      {
+        "cluster": "7",
+        "keyword": "what is an applied ai engineer",
+        "search_volume": 10,
+        "competition": "LOW",
+        "competition_index": 3,
+        "cpc": null,
+        "low_bid": null,
+        "high_bid": null
+      },
+      {
+        "cluster": "7",
+        "keyword": "ai native startup hiring",
+        "search_volume": null,
+        "competition": null,
+        "competition_index": null,
+        "cpc": null,
+        "low_bid": null,
+        "high_bid": null
+      },
+      {
+        "cluster": "7",
+        "keyword": "new engineering roles",
+        "search_volume": null,
+        "competition": null,
+        "competition_index": null,
+        "cpc": null,
+        "low_bid": null,
+        "high_bid": null
+      },
+      {
+        "cluster": "7",
+        "keyword": "hiring for ai first teams",
+        "search_volume": null,
+        "competition": null,
+        "competition_index": null,
+        "cpc": null,
+        "low_bid": null,
+        "high_bid": null
+      },
+      {
+        "cluster": "7",
+        "keyword": "new tech roles 2026",
+        "search_volume": null,
+        "competition": null,
+        "competition_index": null,
+        "cpc": null,
+        "low_bid": null,
+        "high_bid": null
+      },
+      {
+        "cluster": "7",
+        "keyword": "how ai is changing engineering hiring",
+        "search_volume": null,
+        "competition": null,
+        "competition_index": null,
+        "cpc": null,
+        "low_bid": null,
+        "high_bid": null
+      },
+      {
+        "cluster": "7",
+        "keyword": "ai engineer skills",
+        "search_volume": 30,
+        "competition": "MEDIUM",
+        "competition_index": 36,
+        "cpc": 1.06,
+        "low_bid": 0.96,
+        "high_bid": 5.4
+      },
+      {
+        "cluster": "8",
+        "keyword": "eu ai act recruitment",
+        "search_volume": 10,
+        "competition": "MEDIUM",
+        "competition_index": 56,
+        "cpc": 7.57,
+        "low_bid": 4.5,
+        "high_bid": 15.98
+      },
+      {
+        "cluster": "8",
+        "keyword": "eu ai act hiring",
+        "search_volume": 10,
+        "competition": "LOW",
+        "competition_index": 14,
+        "cpc": 0.95,
+        "low_bid": null,
+        "high_bid": null
+      },
+      {
+        "cluster": "8",
+        "keyword": "ai in recruitment regulation",
+        "search_volume": null,
+        "competition": null,
+        "competition_index": null,
+        "cpc": null,
+        "low_bid": null,
+        "high_bid": null
+      },
+      {
+        "cluster": "8",
+        "keyword": "ats friendly cv",
+        "search_volume": 880,
+        "competition": "MEDIUM",
+        "competition_index": 57,
+        "cpc": 2.47,
+        "low_bid": 0.9,
+        "high_bid": 2.4
+      },
+      {
+        "cluster": "8",
+        "keyword": "how to pass ats",
+        "search_volume": 20,
+        "competition": "MEDIUM",
+        "competition_index": 35,
+        "cpc": 0.89,
+        "low_bid": 1.03,
+        "high_bid": 4.43
+      },
+      {
+        "cluster": "8",
+        "keyword": "ats resume format",
+        "search_volume": 170,
+        "competition": "MEDIUM",
+        "competition_index": 61,
+        "cpc": 3.23,
+        "low_bid": 0.6,
+        "high_bid": 2.59
+      },
+      {
+        "cluster": "8",
+        "keyword": "tech cv tips",
+        "search_volume": null,
+        "competition": null,
+        "competition_index": null,
+        "cpc": null,
+        "low_bid": null,
+        "high_bid": null
+      },
+      {
+        "cluster": "8",
+        "keyword": "is ai hiring legal",
+        "search_volume": null,
+        "competition": null,
+        "competition_index": null,
+        "cpc": null,
+        "low_bid": null,
+        "high_bid": null
+      },
+      {
+        "cluster": "8",
+        "keyword": "ai hiring compliance",
+        "search_volume": null,
+        "competition": null,
+        "competition_index": null,
+        "cpc": null,
+        "low_bid": null,
+        "high_bid": null
+      },
+      {
+        "cluster": "8",
+        "keyword": "ats cv checker",
+        "search_volume": 2400,
+        "competition": "HIGH",
+        "competition_index": 71,
+        "cpc": 3.08,
+        "low_bid": 0.72,
+        "high_bid": 3.26
+      },
+      {
+        "cluster": "8",
+        "keyword": "cv for software engineer",
+        "search_volume": 390,
+        "competition": "LOW",
+        "competition_index": 9,
+        "cpc": 1.38,
+        "low_bid": 0.55,
+        "high_bid": 1.74
+      }
+    ],
+    "United States|en": [
+      {
+        "cluster": "2",
+        "keyword": "hire machine learning engineers",
+        "search_volume": 140,
+        "competition": "LOW",
+        "competition_index": 12,
+        "cpc": null,
+        "low_bid": 26.3,
+        "high_bid": 152
+      },
+      {
+        "cluster": "2",
+        "keyword": "data engineer recruitment",
+        "search_volume": 30,
+        "competition": "LOW",
+        "competition_index": 0,
+        "cpc": null,
+        "low_bid": null,
+        "high_bid": null
+      },
+      {
+        "cluster": "2",
+        "keyword": "ai engineer hiring",
+        "search_volume": 40,
+        "competition": "MEDIUM",
+        "competition_index": 35,
+        "cpc": 44.13,
+        "low_bid": 3.78,
+        "high_bid": 39.23
+      },
+      {
+        "cluster": "2",
+        "keyword": "mlops recruitment",
+        "search_volume": null,
+        "competition": null,
+        "competition_index": null,
+        "cpc": null,
+        "low_bid": null,
+        "high_bid": null
+      },
+      {
+        "cluster": "2",
+        "keyword": "data scientist recruitment",
+        "search_volume": 50,
+        "competition": "LOW",
+        "competition_index": 13,
+        "cpc": 5.8,
+        "low_bid": 4.73,
+        "high_bid": 14.95
+      },
+      {
+        "cluster": "2",
+        "keyword": "data science recruitment",
+        "search_volume": 50,
+        "competition": "LOW",
+        "competition_index": 13,
+        "cpc": 5.8,
+        "low_bid": 4.73,
+        "high_bid": 14.95
+      },
+      {
+        "cluster": "2",
+        "keyword": "ai recruitment romania",
+        "search_volume": null,
+        "competition": null,
+        "competition_index": null,
+        "cpc": null,
+        "low_bid": null,
+        "high_bid": null
+      },
+      {
+        "cluster": "2",
+        "keyword": "how to hire a machine learning engineer",
+        "search_volume": 10,
+        "competition": "LOW",
+        "competition_index": 0,
+        "cpc": null,
+        "low_bid": null,
+        "high_bid": null
+      },
+      {
+        "cluster": "2",
+        "keyword": "where to find data engineers",
+        "search_volume": null,
+        "competition": null,
+        "competition_index": null,
+        "cpc": null,
+        "low_bid": null,
+        "high_bid": null
+      },
+      {
+        "cluster": "2",
+        "keyword": "recruiting ai talent in europe",
+        "search_volume": null,
+        "competition": null,
+        "competition_index": null,
+        "cpc": null,
+        "low_bid": null,
+        "high_bid": null
+      },
+      {
+        "cluster": "2",
+        "keyword": "how to assess an ml engineer",
+        "search_volume": null,
+        "competition": null,
+        "competition_index": null,
+        "cpc": null,
+        "low_bid": null,
+        "high_bid": null
+      },
+      {
+        "cluster": "2",
+        "keyword": "hiring data science teams",
+        "search_volume": null,
+        "competition": null,
+        "competition_index": null,
+        "cpc": null,
+        "low_bid": null,
+        "high_bid": null
+      },
+      {
+        "cluster": "2",
+        "keyword": "ml engineer salary romania",
+        "search_volume": null,
+        "competition": null,
+        "competition_index": null,
+        "cpc": null,
+        "low_bid": null,
+        "high_bid": null
+      },
+      {
+        "cluster": "2",
+        "keyword": "data engineer vs data scientist",
+        "search_volume": 1600,
+        "competition": "LOW",
+        "competition_index": 9,
+        "cpc": 8.24,
+        "low_bid": 0.21,
+        "high_bid": 12.35
+      },
+      {
+        "cluster": "2",
+        "keyword": "applied ai engineer hiring",
+        "search_volume": null,
+        "competition": null,
+        "competition_index": null,
+        "cpc": null,
+        "low_bid": null,
+        "high_bid": null
+      },
+      {
+        "cluster": "7",
+        "keyword": "ai native engineering",
+        "search_volume": 170,
+        "competition": "MEDIUM",
+        "competition_index": 34,
+        "cpc": 13.54,
+        "low_bid": 4.73,
+        "high_bid": 16.71
+      },
+      {
+        "cluster": "7",
+        "keyword": "forward deployed engineer",
+        "search_volume": 18100,
+        "competition": "LOW",
+        "competition_index": 19,
+        "cpc": 6.17,
+        "low_bid": 1.32,
+        "high_bid": 8.01
+      },
+      {
+        "cluster": "7",
+        "keyword": "what is a forward deployed engineer",
+        "search_volume": 1900,
+        "competition": "LOW",
+        "competition_index": 6,
+        "cpc": 3.31,
+        "low_bid": 0.12,
+        "high_bid": 3.52
+      },
+      {
+        "cluster": "7",
+        "keyword": "how to hire a forward deployed engineer",
+        "search_volume": null,
+        "competition": null,
+        "competition_index": null,
+        "cpc": null,
+        "low_bid": null,
+        "high_bid": null
+      },
+      {
+        "cluster": "7",
+        "keyword": "applied ai engineer",
+        "search_volume": 720,
+        "competition": "LOW",
+        "competition_index": 28,
+        "cpc": 17.04,
+        "low_bid": 3.56,
+        "high_bid": 12.04
+      },
+      {
+        "cluster": "7",
+        "keyword": "what is an applied ai engineer",
+        "search_volume": 30,
+        "competition": "LOW",
+        "competition_index": 2,
+        "cpc": null,
+        "low_bid": null,
+        "high_bid": null
+      },
+      {
+        "cluster": "7",
+        "keyword": "ai native startup hiring",
+        "search_volume": null,
+        "competition": null,
+        "competition_index": null,
+        "cpc": null,
+        "low_bid": null,
+        "high_bid": null
+      },
+      {
+        "cluster": "7",
+        "keyword": "new engineering roles",
+        "search_volume": null,
+        "competition": null,
+        "competition_index": null,
+        "cpc": null,
+        "low_bid": null,
+        "high_bid": null
+      },
+      {
+        "cluster": "7",
+        "keyword": "hiring for ai first teams",
+        "search_volume": null,
+        "competition": null,
+        "competition_index": null,
+        "cpc": null,
+        "low_bid": null,
+        "high_bid": null
+      },
+      {
+        "cluster": "7",
+        "keyword": "new tech roles 2026",
+        "search_volume": null,
+        "competition": null,
+        "competition_index": null,
+        "cpc": null,
+        "low_bid": null,
+        "high_bid": null
+      },
+      {
+        "cluster": "7",
+        "keyword": "how ai is changing engineering hiring",
+        "search_volume": null,
+        "competition": null,
+        "competition_index": null,
+        "cpc": null,
+        "low_bid": null,
+        "high_bid": null
+      },
+      {
+        "cluster": "7",
+        "keyword": "ai engineer skills",
+        "search_volume": 210,
+        "competition": "LOW",
+        "competition_index": 30,
+        "cpc": 5.49,
+        "low_bid": 2.41,
+        "high_bid": 7.14
+      },
+      {
+        "cluster": "8",
+        "keyword": "eu ai act recruitment",
+        "search_volume": 10,
+        "competition": "MEDIUM",
+        "competition_index": 43,
+        "cpc": null,
+        "low_bid": null,
+        "high_bid": null
+      },
+      {
+        "cluster": "8",
+        "keyword": "eu ai act hiring",
+        "search_volume": 10,
+        "competition": "LOW",
+        "competition_index": 2,
+        "cpc": null,
+        "low_bid": null,
+        "high_bid": null
+      },
+      {
+        "cluster": "8",
+        "keyword": "ai in recruitment regulation",
+        "search_volume": null,
+        "competition": null,
+        "competition_index": null,
+        "cpc": null,
+        "low_bid": null,
+        "high_bid": null
+      },
+      {
+        "cluster": "8",
+        "keyword": "ats friendly cv",
+        "search_volume": 110,
+        "competition": "LOW",
+        "competition_index": 21,
+        "cpc": 4.17,
+        "low_bid": 0.91,
+        "high_bid": 3.1
+      },
+      {
+        "cluster": "8",
+        "keyword": "how to pass ats",
+        "search_volume": 70,
+        "competition": "LOW",
+        "competition_index": 29,
+        "cpc": 3.9,
+        "low_bid": 0.73,
+        "high_bid": 3.41
+      },
+      {
+        "cluster": "8",
+        "keyword": "ats resume format",
+        "search_volume": 2900,
+        "competition": "MEDIUM",
+        "competition_index": 51,
+        "cpc": 4.63,
+        "low_bid": 1.17,
+        "high_bid": 3.82
+      },
+      {
+        "cluster": "8",
+        "keyword": "tech cv tips",
+        "search_volume": null,
+        "competition": null,
+        "competition_index": null,
+        "cpc": null,
+        "low_bid": null,
+        "high_bid": null
+      },
+      {
+        "cluster": "8",
+        "keyword": "is ai hiring legal",
+        "search_volume": null,
+        "competition": null,
+        "competition_index": null,
+        "cpc": null,
+        "low_bid": null,
+        "high_bid": null
+      },
+      {
+        "cluster": "8",
+        "keyword": "ai hiring compliance",
+        "search_volume": null,
+        "competition": null,
+        "competition_index": null,
+        "cpc": null,
+        "low_bid": null,
+        "high_bid": null
+      },
+      {
+        "cluster": "8",
+        "keyword": "ats cv checker",
+        "search_volume": 12100,
+        "competition": "MEDIUM",
+        "competition_index": 56,
+        "cpc": 5.87,
+        "low_bid": 1.09,
+        "high_bid": 8.03
+      },
+      {
+        "cluster": "8",
+        "keyword": "cv for software engineer",
+        "search_volume": 70,
+        "competition": "LOW",
+        "competition_index": 4,
+        "cpc": 2.06,
+        "low_bid": null,
+        "high_bid": null
+      }
+    ],
+    "Germany|en": [
+      {
+        "cluster": "2",
+        "keyword": "hire machine learning engineers",
+        "search_volume": 10,
+        "competition": "MEDIUM",
+        "competition_index": 64,
+        "cpc": null,
+        "low_bid": null,
+        "high_bid": null
+      },
+      {
+        "cluster": "2",
+        "keyword": "data engineer recruitment",
+        "search_volume": 10,
+        "competition": null,
+        "competition_index": null,
+        "cpc": null,
+        "low_bid": null,
+        "high_bid": null
+      },
+      {
+        "cluster": "2",
+        "keyword": "ai engineer hiring",
+        "search_volume": 10,
+        "competition": null,
+        "competition_index": null,
+        "cpc": null,
+        "low_bid": null,
+        "high_bid": null
+      },
+      {
+        "cluster": "2",
+        "keyword": "mlops recruitment",
+        "search_volume": null,
+        "competition": null,
+        "competition_index": null,
+        "cpc": null,
+        "low_bid": null,
+        "high_bid": null
+      },
+      {
+        "cluster": "2",
+        "keyword": "data scientist recruitment",
+        "search_volume": 10,
+        "competition": "LOW",
+        "competition_index": 30,
+        "cpc": null,
+        "low_bid": null,
+        "high_bid": null
+      },
+      {
+        "cluster": "2",
+        "keyword": "data science recruitment",
+        "search_volume": 10,
+        "competition": "LOW",
+        "competition_index": 30,
+        "cpc": null,
+        "low_bid": null,
+        "high_bid": null
+      },
+      {
+        "cluster": "2",
+        "keyword": "ai recruitment romania",
+        "search_volume": null,
+        "competition": null,
+        "competition_index": null,
+        "cpc": null,
+        "low_bid": null,
+        "high_bid": null
+      },
+      {
+        "cluster": "2",
+        "keyword": "how to hire a machine learning engineer",
+        "search_volume": 0,
+        "competition": null,
+        "competition_index": null,
+        "cpc": null,
+        "low_bid": null,
+        "high_bid": null
+      },
+      {
+        "cluster": "2",
+        "keyword": "where to find data engineers",
+        "search_volume": null,
+        "competition": null,
+        "competition_index": null,
+        "cpc": null,
+        "low_bid": null,
+        "high_bid": null
+      },
+      {
+        "cluster": "2",
+        "keyword": "recruiting ai talent in europe",
+        "search_volume": null,
+        "competition": null,
+        "competition_index": null,
+        "cpc": null,
+        "low_bid": null,
+        "high_bid": null
+      },
+      {
+        "cluster": "2",
+        "keyword": "how to assess an ml engineer",
+        "search_volume": null,
+        "competition": null,
+        "competition_index": null,
+        "cpc": null,
+        "low_bid": null,
+        "high_bid": null
+      },
+      {
+        "cluster": "2",
+        "keyword": "hiring data science teams",
+        "search_volume": null,
+        "competition": null,
+        "competition_index": null,
+        "cpc": null,
+        "low_bid": null,
+        "high_bid": null
+      },
+      {
+        "cluster": "2",
+        "keyword": "ml engineer salary romania",
+        "search_volume": null,
+        "competition": null,
+        "competition_index": null,
+        "cpc": null,
+        "low_bid": null,
+        "high_bid": null
+      },
+      {
+        "cluster": "2",
+        "keyword": "data engineer vs data scientist",
+        "search_volume": 110,
+        "competition": "LOW",
+        "competition_index": 12,
+        "cpc": 0.24,
+        "low_bid": 0.35,
+        "high_bid": 3.86
+      },
+      {
+        "cluster": "2",
+        "keyword": "applied ai engineer hiring",
+        "search_volume": null,
+        "competition": null,
+        "competition_index": null,
+        "cpc": null,
+        "low_bid": null,
+        "high_bid": null
+      },
+      {
+        "cluster": "7",
+        "keyword": "ai native engineering",
+        "search_volume": 10,
+        "competition": "MEDIUM",
+        "competition_index": 64,
+        "cpc": null,
+        "low_bid": 3.6,
+        "high_bid": 13.87
+      },
+      {
+        "cluster": "7",
+        "keyword": "forward deployed engineer",
+        "search_volume": 1900,
+        "competition": "LOW",
+        "competition_index": 11,
+        "cpc": 15.05,
+        "low_bid": 1.56,
+        "high_bid": 8.26
+      },
+      {
+        "cluster": "7",
+        "keyword": "what is a forward deployed engineer",
+        "search_volume": 70,
+        "competition": "LOW",
+        "competition_index": 5,
+        "cpc": null,
+        "low_bid": 0.88,
+        "high_bid": 24.05
+      },
+      {
+        "cluster": "7",
+        "keyword": "how to hire a forward deployed engineer",
+        "search_volume": null,
+        "competition": null,
+        "competition_index": null,
+        "cpc": null,
+        "low_bid": null,
+        "high_bid": null
+      },
+      {
+        "cluster": "7",
+        "keyword": "applied ai engineer",
+        "search_volume": 50,
+        "competition": "MEDIUM",
+        "competition_index": 35,
+        "cpc": 7.22,
+        "low_bid": 2.89,
+        "high_bid": 7.31
+      },
+      {
+        "cluster": "7",
+        "keyword": "what is an applied ai engineer",
+        "search_volume": 10,
+        "competition": "LOW",
+        "competition_index": 29,
+        "cpc": null,
+        "low_bid": null,
+        "high_bid": null
+      },
+      {
+        "cluster": "7",
+        "keyword": "ai native startup hiring",
+        "search_volume": null,
+        "competition": null,
+        "competition_index": null,
+        "cpc": null,
+        "low_bid": null,
+        "high_bid": null
+      },
+      {
+        "cluster": "7",
+        "keyword": "new engineering roles",
+        "search_volume": null,
+        "competition": null,
+        "competition_index": null,
+        "cpc": null,
+        "low_bid": null,
+        "high_bid": null
+      },
+      {
+        "cluster": "7",
+        "keyword": "hiring for ai first teams",
+        "search_volume": null,
+        "competition": null,
+        "competition_index": null,
+        "cpc": null,
+        "low_bid": null,
+        "high_bid": null
+      },
+      {
+        "cluster": "7",
+        "keyword": "new tech roles 2026",
+        "search_volume": null,
+        "competition": null,
+        "competition_index": null,
+        "cpc": null,
+        "low_bid": null,
+        "high_bid": null
+      },
+      {
+        "cluster": "7",
+        "keyword": "how ai is changing engineering hiring",
+        "search_volume": null,
+        "competition": null,
+        "competition_index": null,
+        "cpc": null,
+        "low_bid": null,
+        "high_bid": null
+      },
+      {
+        "cluster": "7",
+        "keyword": "ai engineer skills",
+        "search_volume": 20,
+        "competition": "MEDIUM",
+        "competition_index": 46,
+        "cpc": 5.71,
+        "low_bid": 1.54,
+        "high_bid": 4.23
+      },
+      {
+        "cluster": "8",
+        "keyword": "eu ai act recruitment",
+        "search_volume": 10,
+        "competition": "HIGH",
+        "competition_index": 73,
+        "cpc": 35.43,
+        "low_bid": 1.68,
+        "high_bid": 13.48
+      },
+      {
+        "cluster": "8",
+        "keyword": "eu ai act hiring",
+        "search_volume": 10,
+        "competition": "MEDIUM",
+        "competition_index": 40,
+        "cpc": null,
+        "low_bid": null,
+        "high_bid": null
+      },
+      {
+        "cluster": "8",
+        "keyword": "ai in recruitment regulation",
+        "search_volume": null,
+        "competition": null,
+        "competition_index": null,
+        "cpc": null,
+        "low_bid": null,
+        "high_bid": null
+      },
+      {
+        "cluster": "8",
+        "keyword": "ats friendly cv",
+        "search_volume": 390,
+        "competition": "MEDIUM",
+        "competition_index": 47,
+        "cpc": 2.23,
+        "low_bid": 0.65,
+        "high_bid": 1.93
+      },
+      {
+        "cluster": "8",
+        "keyword": "how to pass ats",
+        "search_volume": 10,
+        "competition": "HIGH",
+        "competition_index": 86,
+        "cpc": null,
+        "low_bid": null,
+        "high_bid": null
+      },
+      {
+        "cluster": "8",
+        "keyword": "ats resume format",
+        "search_volume": 90,
+        "competition": "MEDIUM",
+        "competition_index": 46,
+        "cpc": 1.14,
+        "low_bid": 0.48,
+        "high_bid": 1.94
+      },
+      {
+        "cluster": "8",
+        "keyword": "tech cv tips",
+        "search_volume": null,
+        "competition": null,
+        "competition_index": null,
+        "cpc": null,
+        "low_bid": null,
+        "high_bid": null
+      },
+      {
+        "cluster": "8",
+        "keyword": "is ai hiring legal",
+        "search_volume": null,
+        "competition": null,
+        "competition_index": null,
+        "cpc": null,
+        "low_bid": null,
+        "high_bid": null
+      },
+      {
+        "cluster": "8",
+        "keyword": "ai hiring compliance",
+        "search_volume": null,
+        "competition": null,
+        "competition_index": null,
+        "cpc": null,
+        "low_bid": null,
+        "high_bid": null
+      },
+      {
+        "cluster": "8",
+        "keyword": "ats cv checker",
+        "search_volume": 1600,
+        "competition": "MEDIUM",
+        "competition_index": 66,
+        "cpc": 2.29,
+        "low_bid": 0.35,
+        "high_bid": 2.81
+      },
+      {
+        "cluster": "8",
+        "keyword": "cv for software engineer",
+        "search_volume": 70,
+        "competition": "LOW",
+        "competition_index": 9,
+        "cpc": 0.78,
+        "low_bid": 0.4,
+        "high_bid": 2.19
+      }
+    ]
+  }
+}

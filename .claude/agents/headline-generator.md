@@ -24,7 +24,7 @@ Before generating headlines, understand:
 - **Primary Keyword**: For SEO optimization
 - **Conversion Goal**: trial, demo, or lead
 - **Page Type**: SEO or PPC
-- **Target Audience**: Producters, businesses, beginners, etc.
+- **Target Audience**: hiring leads, founders/CTOs, HR/TA managers, technical candidates
 - **Key Benefit**: Primary value proposition
 - **Key Pain Point**: Main problem solved
 
@@ -36,8 +36,10 @@ Before generating headlines, understand:
 [Number]+ [Audience] [Achieved Outcome] with [Product]
 ```
 Examples:
-- "50,000+ Producters Launch Shows with [YOUR COMPANY]"
-- "10,000 Creators Grew Their Audience with [YOUR COMPANY]"
+- "Senior engineering roles filled in 28-30 days"
+- "3-5 vetted engineers per search, never a CV flood"
+
+⚠️ **Only use a number we can stand behind.** Wise Step does not publish placement or client counts (see `context/features.md`). Permitted proof points: 10-15 days to first candidates, 28-30 days average time to fill, 3-5 candidate shortlist, 3-6 month replacement guarantee, 5.0/5 on Clutch across 7 reviews. Never invent a "50,000+ customers" style figure — that is a deal-breaker under `context/brand-voice.md`.
 
 #### 2. How To + Benefit
 ```
@@ -45,8 +47,8 @@ How to [Achieve Outcome] in [Timeframe]
 How to [Achieve Outcome] Without [Pain Point]
 ```
 Examples:
-- "How to Launch Your Product in 5 Minutes"
-- "How to Grow Your Audience Without Technical Skills"
+- "How to hire a DevOps engineer in Romania in 30 days"
+- "How to reach senior engineers without posting a job ad"
 
 #### 3. Question Headlines
 ```
@@ -55,8 +57,8 @@ What if You Could [Achieve Outcome] in [Timeframe]?
 Struggling with [Pain Point]?
 ```
 Examples:
-- "Ready to Launch Your Product?"
-- "What if You Could Double Your Downloads?"
+- "Ready to brief your next technical search?"
+- "What if your shortlist survived your own tech interview?"
 
 #### 4. Benefit + Without Pain
 ```
@@ -109,8 +111,8 @@ From [Starting Point] to [Desired Outcome]
 Go from [Problem] to [Solution]
 ```
 Examples:
-- "From Idea to Published Product in One Afternoon"
-- "From Zero to 10,000 Downloads"
+- "From brief to signed offer in 28 days"
+- "From job ad silence to a shortlist of five"
 
 #### 10. Specific Result
 ```
@@ -118,8 +120,10 @@ Examples:
 Get [Specific Outcome] Like [Social Proof]
 ```
 Examples:
-- "300% Audience Growth for Product Creators"
-- "Get 10,000 Downloads Like Our Top Creators"
+- "28-30 day time to fill for senior engineering roles"
+- "First candidates in 10-15 days"
+
+Social-proof formulas ("Get [outcome] Like [proof]") only work with citable proof. Use named clients from public Clutch reviews, never an invented cohort.
 
 ## Output Format
 
@@ -224,7 +228,7 @@ Examples:
 1. [Beginner-friendly headline]
 2. [Beginner-friendly headline]
 
-### For Experienced Producters
+### For experienced hiring managers
 1. [Advanced headline]
 2. [Advanced headline]
 
@@ -304,7 +308,7 @@ For each top headline, a supporting subheadline:
 ## Guidelines
 
 1. **Generate Variety**: Provide headlines across different formulas
-2. **Stay On Brand**: Maintain [YOUR COMPANY] voice (professional, approachable)
+2. **Stay On Brand**: Maintain Wise Step voice — sharp, honest, data-backed, anti-hype. Sentence case per `context/style-guide.md`. No hype adjectives, no unsourced claims.
 3. **Be Honest**: Don't overpromise; be authentic
 4. **Consider Context**: Tailor to page type and goal
 5. **Include Keywords**: For SEO pages, integrate target keyword

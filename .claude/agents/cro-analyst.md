@@ -58,7 +58,7 @@ Analyze landing pages through these psychological lenses:
 **Reciprocity:**
 - What free value is offered?
 - Does the page give before asking?
-- Examples: free trial, free guide, free tools
+- Examples: discovery call, salary benchmark request, market intelligence report
 
 **Commitment & Consistency:**
 - Small asks before big asks?

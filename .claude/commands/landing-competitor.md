@@ -15,7 +15,7 @@ Use this command to analyze a specific competitor's landing page in depth.
 1. Fetches and analyzes the competitor's landing page
 2. Extracts key CRO elements and patterns
 3. Identifies their strengths and weaknesses
-4. Provides actionable insights for [YOUR COMPANY] pages
+4. Provides actionable insights for Wise Step pages
 5. Saves analysis for reference
 
 ## Analysis Framework
@@ -142,7 +142,7 @@ Use this command to analyze a specific competitor's landing page in depth.
 - **Customer Logos**: [if present]
 
 ### Risk Reversals
-- [ ] Free trial - Duration: [X days]
+- [ ] Engagement model disclosed (retained / contingency / hybrid)
 - [ ] No credit card
 - [ ] Money-back guarantee
 - [ ] Cancel anytime
@@ -174,17 +174,17 @@ Use this command to analyze a specific competitor's landing page in depth.
 1. **[Strength 1]**
    - What they do: [description]
    - Why it works: [explanation]
-   - How [YOUR COMPANY] can use: [application]
+   - How Wise Step can use: [application]
 
 2. **[Strength 2]**
    - What they do: [description]
    - Why it works: [explanation]
-   - How [YOUR COMPANY] can use: [application]
+   - How Wise Step can use: [application]
 
 3. **[Strength 3]**
    - What they do: [description]
    - Why it works: [explanation]
-   - How [YOUR COMPANY] can use: [application]
+   - How Wise Step can use: [application]
 
 ---
 
@@ -193,21 +193,21 @@ Use this command to analyze a specific competitor's landing page in depth.
 1. **[Weakness 1]**
    - What's missing/weak: [description]
    - Impact: [why it matters]
-   - [YOUR COMPANY] advantage: [how to capitalize]
+   - Wise Step advantage: [how to capitalize]
 
 2. **[Weakness 2]**
    - What's missing/weak: [description]
    - Impact: [why it matters]
-   - [YOUR COMPANY] advantage: [how to capitalize]
+   - Wise Step advantage: [how to capitalize]
 
 3. **[Weakness 3]**
    - What's missing/weak: [description]
    - Impact: [why it matters]
-   - [YOUR COMPANY] advantage: [how to capitalize]
+   - Wise Step advantage: [how to capitalize]
 
 ---
 
-## Key Takeaways for [YOUR COMPANY]
+## Key Takeaways for Wise Step
 
 ### Must Do (Critical Lessons)
 1. [Takeaway 1]
@@ -229,15 +229,15 @@ Use this command to analyze a specific competitor's landing page in depth.
 
 ## Recommended Differentiation
 
-Based on this analysis, [YOUR COMPANY] should differentiate by:
+Based on this analysis, Wise Step should differentiate by:
 
 1. **[Differentiation angle 1]**
    - They say: [competitor approach]
-   - We should say: [[YOUR COMPANY] approach]
+   - We should say: [Wise Step approach]
 
 2. **[Differentiation angle 2]**
    - They say: [competitor approach]
-   - We should say: [[YOUR COMPANY] approach]
+   - We should say: [Wise Step approach]
 
 ---
 
@@ -245,10 +245,10 @@ Based on this analysis, [YOUR COMPANY] should differentiate by:
 
 Their headline: "[competitor headline]"
 
-Better alternatives for [YOUR COMPANY]:
-1. "[[YOUR COMPANY] headline option 1]"
-2. "[[YOUR COMPANY] headline option 2]"
-3. "[[YOUR COMPANY] headline option 3]"
+Better alternatives for Wise Step:
+1. "[Wise Step headline option 1]"
+2. "[Wise Step headline option 2]"
+3. "[Wise Step headline option 3]"
 
 ---
 
@@ -256,9 +256,9 @@ Better alternatives for [YOUR COMPANY]:
 
 Their primary CTA: "[competitor CTA]"
 
-Stronger alternatives for [YOUR COMPANY]:
-1. "[[YOUR COMPANY] CTA option 1]"
-2. "[[YOUR COMPANY] CTA option 2]"
+Stronger alternatives for Wise Step:
+1. "[Wise Step CTA option 1]"
+2. "[Wise Step CTA option 2]"
 ```
 
 ## File Management
@@ -283,8 +283,8 @@ Save competitor analyses to:
    - Where is their copy vague or generic?
 
 3. **Differentiation Opportunities**
-   - What unique angle could [YOUR COMPANY] take?
-   - What can [YOUR COMPANY] claim that they can't?
+   - What unique angle could Wise Step take?
+   - What can Wise Step claim that they can't?
    - Where is their positioning vulnerable?
 
 ### What NOT to Do
@@ -292,7 +292,7 @@ Save competitor analyses to:
 - Don't copy their copy directly
 - Don't assume their approach is optimal
 - Don't ignore their weaknesses
-- Don't forget [YOUR COMPANY]'s unique strengths
+- Don't forget Wise Step's unique strengths
 
 ## Integration with Other Commands
 
@@ -310,7 +310,7 @@ Save competitor analyses to:
 # Then synthesize findings
 ```
 
-**Audit [YOUR COMPANY] vs Competitor:**
+**Audit Wise Step vs Competitor:**
 ```
 /landing-audit https://yoursite.com/[page]/
 /landing-competitor https://competitor.com/[page]/

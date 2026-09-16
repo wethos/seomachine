@@ -61,7 +61,8 @@ def main():
     # Get all ranking keywords
     print("\n2. Fetching all ranking keywords from GSC...")
     try:
-        all_keywords = gsc.get_keyword_positions(days=90, min_impressions=5)
+        all_keywords = gsc.get_keyword_positions(days=90, limit=5000)
+        all_keywords = [k for k in all_keywords if k.get('impressions', 0) >= 5]
         print(f"   ✓ Found {len(all_keywords)} ranking keywords")
     except Exception as e:
         print(f"   ✗ Error fetching keywords: {e}")
@@ -520,10 +521,10 @@ def write_markdown_report(clusters: List[Dict]):
             f.write(f"---\n\n")
 
         # Moderate clusters
+        moderate_sorted = sorted(moderate, key=lambda x: x['total_impressions'], reverse=True)
+
         if moderate:
             f.write(f"## ✅ MODERATE AUTHORITY TOPICS\n\n")
-
-            moderate_sorted = sorted(moderate, key=lambda x: x['total_impressions'], reverse=True)
 
             for cluster in moderate_sorted[:10]:
                 f.write(f"### {cluster['topic']}\n\n")

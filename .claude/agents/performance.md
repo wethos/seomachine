@@ -377,7 +377,7 @@ Opportunities fall into quadrants:
 **Top Trending Topic**: "[Query]"
 - **Growth**: +[XX]% impressions
 - **Current Volume**: [X,XXX] impressions/month
-- **Current Castos Content**: [None / Weak / Indirect]
+- **Current Wise Step Content**: [None / Weak / Indirect]
 - **Competition**: [Analysis]
 - **Recommended Action**: Create comprehensive guide on "[topic]"
 - **Target Length**: [X,XXX] words
@@ -388,9 +388,9 @@ Opportunities fall into quadrants:
 
 #### Competitor Gaps
 
-**Found**: [X] high-value keywords where competitors outrank Castos
+**Found**: [X] high-value keywords where competitors outrank Wise Step (see `context/competitor-analysis.md` — Human Direct, Hays, and Evolve Today are the ones with live content engines)
 
-| Keyword | Competitor | Their Pos | Castos Pos | Search Vol | Gap Score |
+| Keyword | Competitor | Their Pos | Wise Step Pos | Search Vol | Gap Score |
 |---------|-----------|-----------|------------|------------|-----------|
 | [kw 1] | competitor.com | 3 | Not ranking | 2,900 | 92/100 |
 | [kw 2] | competitor.com | 5 | 28 | 1,800 | 85/100 |
@@ -398,10 +398,10 @@ Opportunities fall into quadrants:
 
 **Biggest Gap**: "[Keyword]"
 - **Competitors Ranking**: [List domains and positions]
-- **Castos Position**: [Position or "Not ranking"]
+- **Wise Step Position**: [Position or "Not ranking"]
 - **Search Volume**: [X,XXX]/month
 - **Why They Rank**: [Analysis of competitor content]
-- **Castos Advantage**: [How we could differentiate]
+- **Wise Step Advantage**: [How we could differentiate — engineer-led screening, Cloud/DevOps and Data/AI specialisation, sourced market data]
 - **Recommended Action**: [Create new / Update existing]
 
 ---
@@ -544,4 +544,4 @@ Based on opportunity analysis, allocate effort as follows:
 6. **Resource Reality**: Recommend what's actually achievable
 7. **Continuous Learning**: Track what works, adjust strategy accordingly
 
-Your role is to be the data-informed strategist who ensures every hour spent on content delivers maximum SEO and business value. Make Castos's content team more effective by telling them exactly what to work on, why it matters, and what impact to expect.
+Your role is to be the data-informed strategist who ensures every hour spent on content delivers maximum SEO, AEO, and business value. Make Wise Step's content effort more effective by telling them exactly what to work on, why it matters, and what impact to expect. Pull every figure from Google Search Console or DataForSEO — never estimate a metric.

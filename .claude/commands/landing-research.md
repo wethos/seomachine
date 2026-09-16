@@ -7,7 +7,7 @@ Use this command to research a landing page opportunity before creating it. Anal
 
 **Examples:**
 - `/landing-research "product hosting for beginners" --type seo`
-- `/landing-research "product free trial" --type ppc`
+- `/landing-research "IT recruitment agency Romania" --type ppc`
 - `/landing-research "private producting solutions"`
 
 **Defaults:**
@@ -163,7 +163,7 @@ Based on research, recommend:
 |--------|--------------|--------------|--------------|
 | Testimonials | [✓/✗] | [✓/✗] | [✓/✗] |
 | Customer Count | [✓/✗] | [✓/✗] | [✓/✗] |
-| Free Trial | [✓/✗] | [✓/✗] | [✓/✗] |
+| Published pricing | [✓/✗] | [✓/✗] | [✓/✗] |
 | Results/Numbers | [✓/✗] | [✓/✗] | [✓/✗] |
 
 ---
@@ -174,15 +174,15 @@ Based on research, recommend:
 
 1. **[Gap 1]**
    - None/few competitors mention [X]
-   - [YOUR COMPANY] opportunity: [how to exploit]
+   - Wise Step opportunity: [how to exploit]
 
 2. **[Gap 2]**
    - Competitors weak on [X]
-   - [YOUR COMPANY] opportunity: [how to exploit]
+   - Wise Step opportunity: [how to exploit]
 
 3. **[Gap 3]**
    - No competitor addresses [objection/concern]
-   - [YOUR COMPANY] opportunity: [how to address]
+   - Wise Step opportunity: [how to address]
 
 ### Differentiation Opportunities
 
@@ -267,9 +267,9 @@ Based on competitive analysis and gaps:
 ## Internal Linking
 
 Based on this topic, link to:
-- [[YOUR COMPANY] page 1] - Anchor: "[suggested anchor]"
-- [[YOUR COMPANY] page 2] - Anchor: "[suggested anchor]"
-- [[YOUR COMPANY] page 3] - Anchor: "[suggested anchor]"
+- [Wise Step page 1] - Anchor: "[suggested anchor]"
+- [Wise Step page 2] - Anchor: "[suggested anchor]"
+- [Wise Step page 3] - Anchor: "[suggested anchor]"
 
 ---
 

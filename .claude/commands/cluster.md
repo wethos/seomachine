@@ -7,7 +7,7 @@ Build a complete topic cluster strategy with pillar page definition, 8-12 suppor
 
 **Examples:**
 - `/cluster "content marketing"`
-- `/cluster "podcast monetization"`
+- `/cluster "DevOps recruitment Romania"`
 - `/cluster "remote team management"`
 
 ## Process

@@ -44,7 +44,7 @@ The Performance Agent automatically identifies:
 - Content gaps in growing areas
 
 **Competitor Gaps**:
-- Keywords competitors rank for but your company doesn't
+- Keywords competitors rank for but Wise Step doesn't
 - Strategic positioning opportunities
 - Estimated traffic potential
 
@@ -121,7 +121,7 @@ Key Trends:
 ```
 🔥 URGENT (Do This Week)
 
-1. Optimize for "podcast analytics dashboard"
+1. Optimize for "DevOps engineer salary Romania"
    Type: Quick Win
    Current Position: 12
    Monthly Impressions: 5,400
@@ -159,16 +159,16 @@ The Performance Agent output directly informs other commands:
 
 **From Performance Review → Next Actions**:
 
-1. **Quick Win Identified**: "podcast monetization" at position 13
+1. **Quick Win Identified**: "headhunting Romania" at position 13
    ```
-   /analyze-existing /blog/podcast-monetization-guide
-   /optimize drafts/podcast-monetization-guide.md
+   /analyze-existing /blog/headhunting-romania
+   /optimize drafts/headhunting-romania.md
    ```
 
 2. **Declining Content**: Article lost 35% traffic
    ```
-   /analyze-existing /blog/podcast-equipment-guide
-   /rewrite podcast equipment guide
+   /analyze-existing /blog/it-salaries-romania-2026
+   /rewrite IT salaries Romania
    ```
 
 3. **Low CTR**: High impressions, 2.5% CTR
@@ -177,16 +177,16 @@ The Performance Agent output directly informs other commands:
    # Update meta title and description manually or via CMS
    ```
 
-4. **Trending Topic**: "AI podcast tools" +150% growth
+4. **Trending Topic**: "AI-native engineering" +150% growth
    ```
-   /research AI podcast tools
-   /write AI podcast tools
+   /research AI-native engineering
+   /write AI-native engineering
    ```
 
-5. **Competitor Gap**: competitor.com ranks #3, your company not ranking
+5. **Competitor Gap**: competitor.com ranks #3, Wise Step not ranking
    ```
-   /research podcast editing workflow
-   /write podcast editing workflow
+   /research DevOps recruitment Romania
+   /write DevOps recruitment Romania
    ```
 
 ## Frequency Recommendations
@@ -217,7 +217,7 @@ The biggest gains come from quick wins - prioritize position 11-20 optimizations
 Document what you implement and measure results:
 ```markdown
 ## Action Taken (2025-10-15)
-- Optimized "podcast analytics" article
+- Optimized "IT salaries Romania" article
 - Target: Move from position 13 → 8
 - Changes: Added 500 words, improved meta, 3 internal links
 

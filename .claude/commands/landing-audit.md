@@ -17,7 +17,7 @@ Use this command to audit existing landing pages for conversion optimization opp
 
 1. Fetches or reads the landing page content
 2. Runs comprehensive CRO analysis using multiple analyzers
-3. Pulls GA4 performance data (if available for [YOUR COMPANY] pages)
+3. Pulls GA4 performance data (if available for Wise Step pages)
 4. Generates prioritized recommendations
 5. Saves audit report for reference
 
@@ -91,7 +91,7 @@ trust = analyze_trust_signals(content)
 cro = check_cro(content, page_type, goal)
 ```
 
-### Step 3: Performance Data ([YOUR COMPANY] Pages Only)
+### Step 3: Performance Data (Wise Step Pages Only)
 
 For yoursite.com pages, pull GA4 data if available:
 - Page views (last 30 days)

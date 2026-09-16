@@ -1,0 +1,447 @@
+{
+  "measured": "2026-09-14T08:52:20.564095",
+  "cost_usd": 0.021,
+  "results": {
+    "llm routing|United States|en": {
+      "features": [
+        "ai_overview",
+        "related_searches"
+      ],
+      "organic": [
+        {
+          "rank": 1,
+          "domain": "github.com",
+          "title": "LLMRouter: An Open-Source Library for LLM Routing",
+          "url": "https://github.com/ulab-uiuc/LLMRouter"
+        },
+        {
+          "rank": 2,
+          "domain": "www.braintrust.dev",
+          "title": "Best LLM routers and model routing platforms in 2026 - Articles",
+          "url": "https://www.braintrust.dev/articles/best-llm-routers-2026"
+        },
+        {
+          "rank": 3,
+          "domain": "aws.amazon.com",
+          "title": "Multi-LLM routing strategies for generative AI applications ...",
+          "url": "https://aws.amazon.com/blogs/machine-learning/multi-llm-routing-strategies-for-generative-ai-applications-on-aws/"
+        },
+        {
+          "rank": 4,
+          "domain": "www.truefoundry.com",
+          "title": "What is LLM Router?",
+          "url": "https://www.truefoundry.com/blog/what-is-llm-router"
+        },
+        {
+          "rank": 5,
+          "domain": "developers.redhat.com",
+          "title": "LLM Semantic Router: Intelligent request routing for large ...",
+          "url": "https://developers.redhat.com/articles/2025/05/20/llm-semantic-router-intelligent-request-routing"
+        },
+        {
+          "rank": 6,
+          "domain": "www.reddit.com",
+          "title": "What's the best LLM router for production? Need multi- ...",
+          "url": "https://www.reddit.com/r/LLM_Gateways/comments/1reac7n/whats_the_best_llm_router_for_production_need/"
+        },
+        {
+          "rank": 7,
+          "domain": "www.merge.dev",
+          "title": "LLM routing: overview, strategies, and tools",
+          "url": "https://www.merge.dev/blog/llm-routing"
+        },
+        {
+          "rank": 8,
+          "domain": "arxiv.org",
+          "title": "Universal Model Routing for Efficient LLM Inference",
+          "url": "https://arxiv.org/abs/2502.08773"
+        },
+        {
+          "rank": 9,
+          "domain": "blog.n8n.io",
+          "title": "LLM routing strategies for quality in AI applications",
+          "url": "https://blog.n8n.io/llm-routing/"
+        },
+        {
+          "rank": 10,
+          "domain": "www.merge.dev",
+          "title": "LLM routing: overview, strategies, and tools",
+          "url": "https://www.merge.dev/blog/llm-routing"
+        }
+      ],
+      "paa": []
+    },
+    "llm cost optimization|United States|en": {
+      "features": [
+        "ai_overview",
+        "people_also_ask",
+        "related_searches",
+        "scholarly_articles"
+      ],
+      "organic": [
+        {
+          "rank": 1,
+          "domain": "www.getmaxim.ai",
+          "title": "LLM Cost Optimization: A Guide to Cutting AI Spending ...",
+          "url": "https://www.getmaxim.ai/articles/llm-cost-optimization-a-guide-to-cutting-ai-spending-without-sacrificing-quality/"
+        },
+        {
+          "rank": 2,
+          "domain": "www.alexanderthamm.com",
+          "title": "The Practical Guide to LLM Cost Optimization",
+          "url": "https://www.alexanderthamm.com/en/blog/llm-cost-optimization/"
+        },
+        {
+          "rank": 3,
+          "domain": "www.morphllm.com",
+          "title": "LLM Cost Optimization: 5 Levers to Cut API Spend 70-85%",
+          "url": "https://www.morphllm.com/llm-cost-optimization"
+        },
+        {
+          "rank": 4,
+          "domain": "exadel.com",
+          "title": "LLM Cost Optimization Guide",
+          "url": "https://exadel.com/news/llm-cost-optimization-enterprise-ai-framework"
+        },
+        {
+          "rank": 5,
+          "domain": "cast.ai",
+          "title": "LLM Cost Optimization: How To Run Gen AI Apps ...",
+          "url": "https://cast.ai/blog/llm-cost-optimization-how-to-run-gen-ai-apps-cost-efficiently/"
+        },
+        {
+          "rank": 6,
+          "domain": "medium.com",
+          "title": "LLM Cost Optimization",
+          "url": "https://medium.com/@bijit211987/optimizing-llms-for-cost-087e923c7fd0"
+        },
+        {
+          "rank": 7,
+          "domain": "www.coursera.org",
+          "title": "Optimize LLM Costs & Streamline Processes",
+          "url": "https://www.coursera.org/learn/optimize-llm-costs-and-streamline-processes"
+        },
+        {
+          "rank": 8,
+          "domain": "www.oracle.com",
+          "title": "AI Cost Optimization: How to Reduce LLM Costs",
+          "url": "https://www.oracle.com/cloud/multicloud/ai-cost-optimization/"
+        },
+        {
+          "rank": 9,
+          "domain": "www.truefoundry.com",
+          "title": "LLM Cost Optimization: Why an AI Gateway Is the Missing ...",
+          "url": "https://www.truefoundry.com/blog/llm-cost-optimization"
+        },
+        {
+          "rank": 10,
+          "domain": "www.youtube.com",
+          "title": "Cost Optimization Techniques for LLM Applications",
+          "url": "https://www.youtube.com/watch?v=KkE2NJpnq2s"
+        }
+      ],
+      "paa": [
+        "How to optimize LLM costs?",
+        "Which LLM is most cost-effective?",
+        "How much is 1 million tokens in LLM?",
+        "Are LLM costs going down?"
+      ]
+    },
+    "ai inference cost|United States|en": {
+      "features": [
+        "ai_overview",
+        "related_searches"
+      ],
+      "organic": [
+        {
+          "rank": 1,
+          "domain": "www.mirantis.com",
+          "title": "Optimizing Inference Costs: The Complete Guide",
+          "url": "https://www.mirantis.com/blog/inference-costs/"
+        },
+        {
+          "rank": 2,
+          "domain": "www.reddit.com",
+          "title": "How much is the inference cost for LLMs?",
+          "url": "https://www.reddit.com/r/ArtificialInteligence/comments/1rdi2nb/how_much_is_the_inference_cost_for_llms/"
+        },
+        {
+          "rank": 3,
+          "domain": "www.ciodive.com",
+          "title": "AI inference costs set to plunge: Gartner",
+          "url": "https://www.ciodive.com/news/ai-inference-costs-drop-2030-gartner/815725/"
+        },
+        {
+          "rank": 4,
+          "domain": "www.cloudzero.com",
+          "title": "LLM inference cost: what drives it and how to lower it",
+          "url": "https://www.cloudzero.com/blog/inference-cost/"
+        },
+        {
+          "rank": 5,
+          "domain": "www.informationdifference.com",
+          "title": "The Cost of Inference",
+          "url": "https://www.informationdifference.com/the-cost-of-inference/"
+        },
+        {
+          "rank": 6,
+          "domain": "inworld.ai",
+          "title": "LLM Inference Cost at Scale",
+          "url": "https://inworld.ai/resources/llm-inference-cost-at-scale"
+        },
+        {
+          "rank": 7,
+          "domain": "www.spheron.network",
+          "title": "AI Inference Cost Economics in 2026: GPU FinOps Playbook",
+          "url": "https://www.spheron.network/blog/ai-inference-cost-economics-2026/"
+        },
+        {
+          "rank": 8,
+          "domain": "epoch.ai",
+          "title": "LLM inference prices have fallen rapidly but unequally ...",
+          "url": "https://epoch.ai/data-insights/llm-inference-price-trends"
+        },
+        {
+          "rank": 9,
+          "domain": "www.gmicloud.ai",
+          "title": "What Is Inference Cost in AI? Definition",
+          "url": "https://www.gmicloud.ai/ja/blog/what-is-inference-cost-in-ai"
+        },
+        {
+          "rank": 10,
+          "domain": "developer.nvidia.com",
+          "title": "How Much Does Your LLM Inference Cost?",
+          "url": "https://developer.nvidia.com/blog/llm-inference-benchmarking-how-much-does-your-llm-inference-cost/"
+        }
+      ],
+      "paa": []
+    },
+    "inference engineer|United States|en": {
+      "features": [
+        "ai_overview",
+        "people_also_ask",
+        "related_searches",
+        "video"
+      ],
+      "organic": [
+        {
+          "rank": 1,
+          "domain": "openai.com",
+          "title": "Inference Engineer, Robotics",
+          "url": "https://openai.com/careers/inference-engineer-robotics-san-francisco/"
+        },
+        {
+          "rank": 2,
+          "domain": "blog.bytebytego.com",
+          "title": "A Guide to AI Inference Engineering",
+          "url": "https://blog.bytebytego.com/p/a-guide-to-ai-inference-engineering"
+        },
+        {
+          "rank": 3,
+          "domain": "www.reddit.com",
+          "title": "What is inference engineering? Deepdive",
+          "url": "https://www.reddit.com/r/SoftwareEngineering/comments/1ueixlp/what_is_inference_engineering_deepdive/"
+        },
+        {
+          "rank": 4,
+          "domain": "newsletter.pragmaticengineer.com",
+          "title": "What is inference engineering? Deepdive - by Gergely Orosz",
+          "url": "https://newsletter.pragmaticengineer.com/p/what-is-inference-engineering"
+        },
+        {
+          "rank": 5,
+          "domain": "ffive.wd5.myworkdayjobs.com",
+          "title": "AI Inference Engineer - Myworkdayjobs.com",
+          "url": "https://ffive.wd5.myworkdayjobs.com/en-US/f5jobs/job/AI-Inference-Engineer_RP1037299"
+        },
+        {
+          "rank": 6,
+          "domain": "www.spheron.network",
+          "title": "What Is Inference Engineering? The 2026 GPU Cloud Guide",
+          "url": "https://www.spheron.network/blog/inference-engineering-guide-2026/"
+        },
+        {
+          "rank": 7,
+          "domain": "openai.com",
+          "title": "Software Engineer, Model Inference",
+          "url": "https://openai.com/careers/software-engineer-model-inference-san-francisco/"
+        },
+        {
+          "rank": 8,
+          "domain": "medium.com",
+          "title": "Inference Engineering",
+          "url": "https://medium.com/@bijit211987/inference-engineering-85400f6414a3"
+        },
+        {
+          "rank": 9,
+          "domain": "jobs.nvidia.com",
+          "title": "AI Inference Performance Engineer | NVIDIA Corporation",
+          "url": "https://jobs.nvidia.com/careers/job/893393953033"
+        },
+        {
+          "rank": 10,
+          "domain": "inferenceengineering.tech",
+          "title": "Inference Engineering \u2014 Interactive Guide to AI Inference",
+          "url": "https://inferenceengineering.tech/"
+        }
+      ],
+      "paa": [
+        "What engineer can make $500,000 a year?",
+        "Do AI engineers get paid well?",
+        "Is ChatGPT an inference engine?",
+        "Is ML a high paying job?"
+      ]
+    },
+    "llm engineer|Romania|en": {
+      "features": [
+        "ai_overview",
+        "people_also_ask",
+        "related_searches",
+        "video"
+      ],
+      "organic": [
+        {
+          "rank": 1,
+          "domain": "www.reddit.com",
+          "title": "LLM Engineer Roadmap for Beginners",
+          "url": "https://www.reddit.com/r/learnmachinelearning/comments/1jdv74p/llm_engineer_roadmap_for_beginners/"
+        },
+        {
+          "rank": 2,
+          "domain": "github.com",
+          "title": "LLM Engineering Roadmap \u2014 Complete Developer Guide",
+          "url": "https://github.com/tal7aouy/LLM-Engineering"
+        },
+        {
+          "rank": 3,
+          "domain": "www.udemy.com",
+          "title": "AI Engineer Core Track: LLM Engineering, RAG, QLoRA, ...",
+          "url": "https://www.udemy.com/course/llm-engineering-master-ai-and-large-language-models/?srsltid=AfmBOoqkRjBR3gDGrUjoVQ-sVDpzZllf9SPYzge0A-I0_l17cHgiwYFH"
+        },
+        {
+          "rank": 4,
+          "domain": "www.kdnuggets.com",
+          "title": "The Roadmap to Becoming an LLM Engineer in 2026",
+          "url": "https://www.kdnuggets.com/the-roadmap-to-becoming-an-llm-engineer-in-2026"
+        },
+        {
+          "rank": 5,
+          "domain": "www.coursera.org",
+          "title": "LLM Engineering That Works: Prompting, Tuning, and ...",
+          "url": "https://www.coursera.org/professional-certificates/llm-engineering-that-works-prompting-tuning-and-retrieval"
+        },
+        {
+          "rank": 6,
+          "domain": "medium.com",
+          "title": "LLM Engineering (Part I)",
+          "url": "https://medium.com/@yugalnandurkar5/llm-engineering-part-i-fa48d4307d26"
+        },
+        {
+          "rank": 7,
+          "domain": "www.indeed.com",
+          "title": "Llm engineer jobs",
+          "url": "https://www.indeed.com/q-llm-engineer-jobs.html"
+        },
+        {
+          "rank": 8,
+          "domain": "towardsdatascience.com",
+          "title": "The Must-Know Topics for an LLM Engineer",
+          "url": "https://towardsdatascience.com/the-must-know-topics-for-an-llm-engineer/"
+        },
+        {
+          "rank": 9,
+          "domain": "www.educative.io",
+          "title": "Become an LLM Engineer - AI-Powered Learning for ...",
+          "url": "https://www.educative.io/path/become-an-llm-engineer"
+        },
+        {
+          "rank": 10,
+          "domain": "www.youtube.com",
+          "title": "LLM Full Course For Data Engineers (From SCRATCH)",
+          "url": "https://www.youtube.com/watch?v=X8F9JfCUWrs"
+        }
+      ],
+      "paa": [
+        "What is LLM engineer?",
+        "How much do LLM engineers get paid?",
+        "What are the requirements to become an LLM engineer?",
+        "Is LLM coding?"
+      ]
+    },
+    "ai finops|United States|en": {
+      "features": [
+        "ai_overview",
+        "people_also_ask",
+        "related_searches"
+      ],
+      "organic": [
+        {
+          "rank": 1,
+          "domain": "www.finops.org",
+          "title": "FinOps for AI Overview",
+          "url": "https://www.finops.org/wg/finops-for-ai-overview/"
+        },
+        {
+          "rank": 2,
+          "domain": "www.finops.org",
+          "title": "FinOps for AI - FinOps Framework Technology Category",
+          "url": "https://www.finops.org/framework/technology-categories/ai/"
+        },
+        {
+          "rank": 3,
+          "domain": "learn.finops.org",
+          "title": "FinOps Certified: AI Value",
+          "url": "https://learn.finops.org/path/certified-finops-for-ai"
+        },
+        {
+          "rank": 4,
+          "domain": "www.finops.org",
+          "title": "AI for FinOps - FinOps Topic",
+          "url": "https://www.finops.org/topic/ai-for-finops/"
+        },
+        {
+          "rank": 5,
+          "domain": "www.usage.ai",
+          "title": "Best AI Agents for FinOps (2026): 7 Tools Evaluated",
+          "url": "https://www.usage.ai/blogs/finops/tools/best-ai-agents-for-finops/"
+        },
+        {
+          "rank": 6,
+          "domain": "www.ibm.com",
+          "title": "Generative AI for Finops | IBM",
+          "url": "https://www.ibm.com/think/topics/generative-ai-for-finops"
+        },
+        {
+          "rank": 7,
+          "domain": "www.finout.io",
+          "title": "FinOps for AI: The Definitive Overview",
+          "url": "https://www.finout.io/blog/finops-for-ai-the-definitive-overview"
+        },
+        {
+          "rank": 8,
+          "domain": "www.youtube.com",
+          "title": "AI FinOps != Cloud FinOps: Building Observability for AI Spend",
+          "url": "https://www.youtube.com/watch?v=I3eWSPVADZ4"
+        },
+        {
+          "rank": 9,
+          "domain": "info.flexera.com",
+          "title": "FinOps for AI\u2014AI for FinOps: The Complete Guide",
+          "url": "https://info.flexera.com/CM-EBOOK-FinOps-AI?lead_source=Organic%20Search"
+        },
+        {
+          "rank": 10,
+          "domain": "cloudchipr.com",
+          "title": "FinOps for AI: Why Your Cloud Cost Playbook Breaks ...",
+          "url": "https://cloudchipr.com/blog/finops-for-ai"
+        }
+      ],
+      "paa": [
+        "What are FinOps for AI?",
+        "What is the 30% rule in AI?",
+        "What are the three pillars of FinOps?",
+        "How to use AI in FinOps?"
+      ]
+    }
+  }
+}

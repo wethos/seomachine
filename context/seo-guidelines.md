@@ -1,598 +1,396 @@
-# SEO Guidelines for Castos Content
+# SEO & AEO Guidelines for Wise Step Content
 
-This document outlines SEO best practices and requirements for all Castos blog content to maximize organic search visibility and rankings.
+SEO and AEO (answer-engine) best practices for all Wise Step Recruiting blog content (wise-step.ro), to maximise visibility in both classic search and AI-generated answers on CEE/Romania tech-recruitment queries.
+
+Pairs with `brand-voice.md`, `style-guide.md`, and `internal-links-map.md`. The non-negotiable rule from the brand voice governs everything below: **every factual claim is sourced or backed by a concrete number — no hype, no invented figures.** SEO never overrides that.
+
+**Stack context:** the site is Astro, hosted on Cloudflare Pages. Publishing = commit to GitHub (the human quality gate) → auto-deploy. Content is markdown with frontmatter — there is no WordPress/Yoast layer. All content ships in **English and Romanian**.
 
 ## Content Length Requirements
 
 ### Target Word Counts
-- **Standard Blog Post**: 1,500-3,000 words (target: 2,000-2,500)
-- **Pillar Content / Comprehensive Guides**: 3,000-5,000 words maximum
-- **How-To Guides**: 1,500-2,500 words
-- **News / Updates**: 800-1,200 words (exception to standard)
+- **Standard blog post**: 1,500–3,000 words (target 2,000–2,500)
+- **Pillar / comprehensive guide** (e.g. salary guide, market trends): 3,000–5,000 words max
+- **Playbook / how-to** (e.g. hiring playbook): 1,500–2,500 words
+- **Sharp market take / news** (tax change, salary movement): 800–1,200 words
 
-### Important Length Guidelines
-- **Maximum for most articles**: 3,000 words
-- **Maximum for pillar content**: 5,000 words
-- If a topic requires more than the maximum, break it into a series of related articles
-- Aim for the lower end of ranges when possible—concise, focused content often performs better
-
-### Why Length Matters
-- Longer content typically ranks higher in search results
-- More words = more opportunities for keyword integration and topic coverage
-- Comprehensive content earns more backlinks and engagement
-- Depth signals expertise and authority to search engines
+### Length Guidelines
+- Max ~3,000 for most articles; ~5,000 for pillar content
+- If a topic needs more, split into a series
+- Aim for the lower end — concise, playbook-shaped content beats padded length
 
 ### Quality Over Quantity
-- Don't add fluff just to hit word counts
-- Every section should provide genuine value
-- Better to have 2,000 valuable words than 3,000 padded words
-- **Stay within the maximum word counts**—overly long articles hurt user experience
+- No fluff to hit a count. If a sentence is exciting but empty, cut it.
+- Every section earns its place with a benchmark, a number, or an actionable takeaway
+- 2,000 sourced words beat 3,000 padded ones
 
 ## Keyword Optimization
 
-### Keyword Research Requirements
-Before writing any article:
-1. Identify primary target keyword
-2. Research search volume and difficulty
-3. Analyze top 10 ranking competitors
-4. Identify 3-5 secondary/related keywords
-5. List LSI (Latent Semantic Indexing) keywords
+### Keyword Research (before writing)
+1. Identify the primary target keyword
+2. Research volume + difficulty (Google Search Console, DataForSEO)
+3. Analyse the top 10 ranking competitors (see `competitor-analysis.md` — Human Direct, Hays, Evolve Today are active on content)
+4. Identify 3–5 secondary/related keywords
+5. List semantic/related terms
 
-### Keyword Density Guidelines
-- **Primary Keyword**: 1-2% density
-  - Example: In a 2,000-word article, use keyword 20-40 times
-  - Natural integration is critical—never force keywords
-- **Secondary Keywords**: 0.5-1% density each
-- **LSI Keywords**: Sprinkle throughout naturally
+### Keyword Density
+- **Primary keyword**: ~1–2% (natural integration only — never force)
+- **Secondary keywords**: ~0.5–1% each
+- **Semantic terms**: sprinkle naturally
 
 ### Critical Keyword Placement
-Primary keyword MUST appear in:
-- [ ] H1 headline (preferably near the beginning)
-- [ ] First 100 words of article
-- [ ] At least 2-3 H2 subheadings
-- [ ] Last paragraph / conclusion
-- [ ] Meta title (within first 60 characters)
+Primary keyword must appear in:
+- [ ] H1 (near the beginning)
+- [ ] First 100 words
+- [ ] 2–3 H2 subheadings
+- [ ] Conclusion
+- [ ] Meta title (within first 60 chars)
 - [ ] Meta description
 - [ ] URL slug
 
-### Keyword Integration Best Practices
-- **Natural language first**: Write for humans, optimize for search engines
-- **Use variations**: Don't repeat exact phrase robotically
-  - Example: "podcast hosting" → "hosting your podcast" → "podcast host"
-- **Question formats**: Include conversational variations
-  - "How to start a podcast" vs "starting a podcast"
-- **Semantic keywords**: Use related terms to support topical authority
-  - For "podcast editing": include "audio editing", "post-production", "editing workflow"
+### Integration Best Practices
+- **Humans first**: write for the reader, optimise for search
+- **Use variations**: "IT recruitment Romania" → "recruiting IT talent in Romania" → "Romanian tech recruiters"
+- **Question formats**: "how to hire remote developers in Romania" vs "hiring remote developers"
+- **Semantic support**: for "DevOps recruitment", include "SRE", "cloud engineers", "platform engineering", "CI/CD"
 
 ### Keyword Stuffing (Avoid)
-❌ "Podcast hosting is important. Podcast hosting helps podcasters. Our podcast hosting platform offers podcast hosting services for podcast hosting needs."
+❌ "IT recruitment Romania is key. IT recruitment Romania helps companies. Our IT recruitment Romania service delivers IT recruitment Romania results."
 
-✅ "Podcast hosting is important for creators who want to distribute their show to major platforms. A reliable host ensures your episodes are accessible wherever listeners discover new content."
+✅ "Hiring engineers in Romania has shifted from a cost decision to a speed one. A specialised recruiter reaches the DevOps and data talent that job ads never surface."
 
 ## Content Structure Requirements
 
 ### Heading Hierarchy
 
 #### H1 (Title)
-- **Only one H1 per article**
-- Include primary keyword naturally
-- 60 characters or less (for SERP display)
-- Compelling and benefit-focused
-- Should answer: "What will I learn/gain from this?"
+- One H1 per article
+- Primary keyword, naturally, near the start
+- ≤60 chars for SERP display
+- Sharp and specific — no hype. A reversal or benchmark angle works well.
 
 #### H2 (Main Sections)
-- **4-7 H2 sections** for standard articles
-- At least **2-3 should include keyword variations**
-- Descriptive and keyword-rich
-- Logical progression through topic
-- Can be standalone (readers should understand flow from H2s alone)
+- 4–7 H2 sections for standard articles
+- 2–3 should include keyword variations
+- Descriptive; readers should follow the argument from the H2s alone
+- Sentence case (see `style-guide.md`)
 
 #### H3 (Subsections)
-- Nested under H2s (never skip from H2 to H4)
+- Nested under H2 (never skip H2→H4)
 - Break complex sections into digestible chunks
-- Include keywords where natural
-- More specific than H2s
 
 ### Article Structure Template
 
 ```markdown
-# [H1: Compelling Title with Primary Keyword]
+# [H1: Sharp Title with Primary Keyword]
 
-## Introduction (150-250 words)
-- Hook: Attention-grabbing opening
-- Problem: What challenge does this address?
-- Promise: What will reader learn/achieve?
+[Direct answer: 1–2 sentences answering the query, up front — see AEO section]
+
+## Introduction (150–250 words)
+- Hook: reversal opener works ("used to be X — now it's Y")
+- Correction/stakes: overturn the lazy assumption, back it with a number
+- Promise: the benchmark/timeline/decision the reader leaves with
 - Keyword in first 100 words
 
-## [H2: Main Section 1 - Include Keyword Variation]
-### [H3: Subsection if needed]
-- Content depth
-- Examples
-- Data/statistics
+> **Key Takeaways** (TL;DR block — see AEO section)
+> - ...
+
+## [H2: Main Section 1 — keyword variation]
+### [H3 if needed]
+- Playbook-shaped: tables, timelines, numbered lists
+- Sourced data / benchmarks
 
 ## [H2: Main Section 2]
-### [H3: Subsection if needed]
-- Content depth
-- Examples
-- Data/statistics
+...continue with 4–7 total H2 sections...
 
-## [H2: Main Section 3 - Include Keyword Variation]
-### [H3: Subsection if needed]
-- Content depth
-- Examples
-- Data/statistics
+## FAQ (4–6 questions in natural prompt language)
 
-## [H2: Main Section 4]
-[Continue with 4-7 total H2 sections]
-
-## Conclusion (150-250 words)
-- Recap key points (3-5 takeaways)
-- Include keyword
-- Clear call-to-action
-- Next steps for reader
+## Conclusion (150–250 words)
+- Recap (3–5 takeaways)
+- Keyword
+- Honest, concrete CTA (brief a search / book a discovery call)
 ```
 
 ## Meta Elements
 
 ### Meta Title
-**Requirements**:
-- **Length**: 50-60 characters (including "| Castos" if used)
-- **Primary keyword**: Must be included
-- **Compelling**: Should encourage clicks from SERP
-- **Unique**: Different from all other Castos page titles
-- **Accurate**: Must match page content
+- **Length**: 50–60 chars (including "| Wise Step" if used)
+- **Primary keyword**: required
+- **Compelling but anti-hype**: earns the click with specificity, not adjectives
+- **Unique** across the site; **accurate** to the page
 
-**Format Options**:
-- `[Primary Keyword]: [Benefit/Promise]`
-- `How to [Goal] | [Qualifier]`
-- `[Number] Ways to [Achieve Benefit]`
-- `[Topic] Guide for [Audience] | Castos`
+**Format options**:
+- `[Primary Keyword]: [Concrete Promise]`
+- `How to [Goal] in Romania [Year]`
+- `[Number] [Specifics] for [Audience]`
+- `[Topic] Guide [Year] | Wise Step`
 
 **Examples**:
-- ✅ "How to Start a Podcast in 2025: Complete Guide"
-- ✅ "12 Proven Podcast Growth Strategies | Castos"
-- ❌ "Podcast Tips and Tricks" (too vague, no keyword)
-- ❌ "The Ultimate Comprehensive Guide to Everything About Starting Your First Podcast Successfully" (too long)
+- ✅ "IT Salaries in Romania 2026: The Complete Guide"
+- ✅ "How to Hire Remote Developers in Romania | Wise Step"
+- ❌ "Recruitment Tips and Tricks" (vague, no keyword)
+- ❌ "The Ultimate Game-Changing Guide to Hiring the Best Tech Talent Ever" (too long + hype)
 
 ### Meta Description
-**Requirements**:
-- **Length**: 150-160 characters
-- **Primary keyword**: Include naturally
-- **Value proposition**: Clear benefit to reader
-- **Call-to-action**: Action phrase (Learn, Discover, Find out, Get, etc.)
-- **Complete**: Must not cut off mid-sentence
-- **Compelling**: Should drive clicks from SERP
+- **Length**: 150–160 chars
+- **Primary keyword**, naturally
+- **Direct answer**: literally answer the target query (see AEO)
+- **Concrete value + CTA**; never cut off mid-sentence
 
-**Formula**:
-```
-[Problem/Question]? [Solution/Benefit]. [Unique angle]. [CTA].
-```
+**Formula**: `[Question/stakes]? [Sourced answer/benefit]. [CTA].`
 
 **Examples**:
-- ✅ "Learn how to start a podcast with our step-by-step guide. Everything from equipment to launch strategy. Perfect for beginners. Start your show today." (159 chars)
-- ✅ "Discover 12 proven podcast growth strategies that top creators use. Increase downloads, engagement, and audience loyalty. Actionable tips inside." (155 chars)
-- ❌ "This is a blog post about podcasting where we discuss many podcast-related topics." (vague, no value prop, no CTA)
+- ✅ "What do IT engineers earn in Romania in 2026? Full salary bands by role and seniority, sourced from market data. See the complete guide." (150 chars)
+- ✅ "Hiring remote developers in Romania? A step-by-step 2026 playbook for AI, ML and data teams — timelines, costs, and pitfalls. Read the playbook." (156 chars)
+- ❌ "This post talks about recruitment and hiring in Romania and related topics." (vague, no value, no CTA)
 
 ### URL Slug
-**Requirements**:
-- Include primary keyword
-- Lowercase letters only
-- Hyphens between words (not underscores)
-- Short and descriptive (3-5 words ideal)
-- No stop words unless necessary (a, the, and, of, etc.)
+- Primary keyword; lowercase; hyphens (not underscores); 3–5 words; drop stop words
+- **Format**: `/blog/[primary-keyword-phrase]/`
+- Mirror the slug on the RO version (confirm the RO path — see `internal-links-map.md`)
 
-**Format**: `/blog/[primary-keyword-phrase]`
-
-**Examples**:
-- ✅ `/blog/start-podcast-guide`
-- ✅ `/blog/podcast-growth-strategies`
-- ✅ `/blog/podcast-editing-software`
-- ❌ `/blog/how-to-start-a-podcast-in-2025-the-complete-guide` (too long)
-- ❌ `/blog/post-12345` (no keywords)
+**Examples** (match live site patterns):
+- ✅ `/blog/it-salaries-romania-2026/`
+- ✅ `/blog/hire-remote-developers-romania/`
+- ✅ `/blog/headhunting-romania/`
+- ❌ `/blog/the-complete-guide-to-it-salaries-in-romania-for-2026/` (too long)
 
 ## Internal Linking Strategy
 
+Always check `context/internal-links-map.md` for the current, real link targets before adding links.
+
 ### Requirements
 - **Minimum**: 3 internal links per article
-- **Optimal**: 4-5 internal links
-- **Maximum**: 7 internal links (unless 3,000+ word article)
+- **Optimal**: 4–5
+- **Maximum**: 7 (more allowed on 3,000+ word pillars)
 
-### Link Types to Include
+### Link Types
+1. **Pillar blog content (1–2)** — e.g. the salary guide, the CEE trends piece
+2. **Related blog posts (2–3)** — build the content web across the 9 live posts
+3. **Service page (0–1)** — link to `/services/` only when contextually natural, never forced
+4. **Contact / CTA (0–1)** — `/contact/` for "brief a search" / "book a discovery call"
 
-#### 1. Pillar Content (1-2 links)
-- Link to main comprehensive guides on related topics
-- Builds topic cluster authority
-- Usually 2,000+ word cornerstone content
-
-#### 2. Related Blog Posts (2-3 links)
-- Link to articles on related subtopics
-- Creates content web
-- Helps readers explore topics comprehensively
-
-#### 3. Product/Feature Pages (0-1 link)
-- Only when contextually relevant
-- Natural mention of how Castos solves problem
-- Never forced or overly promotional
-
-#### 4. Resource Pages (0-1 link)
-- Templates, tools, checklists
-- When mentioned as solutions in content
-- Provides additional value to reader
-
-### Internal Linking Best Practices
-
-**Anchor Text**:
-- ✅ Descriptive and keyword-rich: "our complete guide to podcast analytics"
-- ✅ Natural in sentence flow: "Learn more about podcast SEO strategies"
-- ❌ Generic: "click here" or "read more"
-- ❌ Exact match repeatedly: Always using same anchor text for same page
-
-**Placement**:
-- Within body paragraphs (most valuable)
-- Natural context that adds value to reader
-- Never more than 2 links per paragraph
-- Distributed throughout article, not clustered
-
-**Reference**:
-- Always check @context/internal-links-map.md for priority linking targets
-- Ensure links are current and functional
-- Link to most relevant, up-to-date content
+### Best Practices
+- **Anchor text**: descriptive, varied, keyword-aware ("our 2026 Romanian salary guide"); never "click here"; don't reuse the exact same anchor for one page
+- **Placement**: within body paragraphs; max 2 links per paragraph; distributed, not clustered; early links carry more weight
+- **EN↔RO**: link EN posts to EN targets, RO to RO
+- Keep links current and functional
 
 ## External Linking Strategy
 
 ### Requirements
 - **Minimum**: 2 external links per article
-- **Optimal**: 3-4 external authority links
-- Purpose: Add credibility, provide sources, support claims
+- **Optimal**: 3–4 authority links
+- Purpose: cite sources, support every stat (this is mandatory under our voice, not optional)
 
-### What to Link Externally
-- **Statistics and data sources**: Always cite where numbers come from
-- **Research and studies**: Link to original research
-- **Tools and resources**: When recommending specific tools
-- **Industry authorities**: Expert opinions or industry publications
+### What to Link
+- **Statistics / market data**: always cite the source (this is the credibility bar)
+- **Research / reports**: link the original
+- **Regulation / official info**: e.g. EU AI Act text, ANAF/tax sources, EU institutions
+- **Industry authorities**: recognised sector data
 
-### External Link Quality Standards
-- **Authority**: Link to credible, well-known sources
-  - ✅ Industry publications (Podcast Host, Podnews, etc.)
-  - ✅ Research institutions and studies
-  - ✅ Established media outlets
-  - ❌ Random blogs with no authority
-  - ❌ Spammy or low-quality sites
+### Quality Standards
+- **Authority**: credible, recognised sources
+  - ✅ Eurostat, INS (Romanian statistics), ANIS, Stack Overflow Developer Survey, official EU/legal sources, established tech-press
+  - ❌ Random low-authority blogs, unsourced aggregators
+- **Relevance**: must directly support the claim
+- **Freshness**: prefer data within 1–2 years
+- **Functional**: no broken links
 
-- **Relevance**: Links must directly support content claims
-- **Freshness**: Prefer recent sources (within 1-2 years for data)
-- **Functionality**: All links must work (no broken links)
-
-### External Link Attributes
-- Most external links: No special attributes needed
-- Sponsored/affiliate links: Use `rel="sponsored"` or `rel="nofollow"`
-- User-generated content: Use `rel="nofollow"`
+### Link Attributes
+- Standard external links: no special attribute
+- Sponsored/affiliate: `rel="sponsored"` or `rel="nofollow"`
+- UGC: `rel="nofollow"`
 
 ## Readability Optimization
 
-### Target Reading Level
-- **Goal**: 8th-10th grade reading level (Flesch-Kincaid)
-- Makes content accessible to wider audience
-- Easier to scan and understand quickly
+Target: **plain but authoritative** — write like an engineer explaining to a peer (see `style-guide.md`).
+
+### Reading Level
+- Roughly 8th–10th grade (Flesch-Kincaid) for accessibility — but never dumb down technical accuracy; define non-obvious terms on first use
 
 ### Sentence Structure
-- **Average length**: 15-20 words per sentence
-- **Maximum**: 25 words (break longer sentences into two)
-- **Variety**: Mix short punchy sentences with longer explanatory ones
-- **Active voice**: Preferred over passive voice (80%+ active)
+- Mix short punchy lines (carry the argument) with longer explanatory ones
+- Break sentences over ~25 words
+- Active voice predominant (80%+)
 
 ### Paragraph Structure
-- **Length**: 2-4 sentences per paragraph
-- **One idea**: Focus each paragraph on single point
-- **White space**: No walls of text
-- **Mobile-friendly**: Short paragraphs scan better on phones
+- 2–4 sentences; one idea each; no walls of text; mobile-friendly
 
-### Formatting for Scannability
-- **Subheadings**: Every 300-400 words
-- **Lists**: Use bullets/numbers for sequential or multiple items
-- **Bold**: Emphasize key concepts or takeaways
-- **Short paragraphs**: Easier to digest
-- **White space**: Makes content less intimidating
-
-### Transition Words
-Use transition words to improve flow (target: one per paragraph):
-- Addition: Additionally, Furthermore, Moreover
-- Contrast: However, On the other hand, Nevertheless
-- Cause/Effect: Therefore, Consequently, As a result
-- Example: For instance, For example, Specifically
-- Time: First, Next, Finally
+### Scannability
+- Subheading every ~300–400 words
+- Lists and tables for anything sequential or comparative (playbook-shaped)
+- Bold the load-bearing claim, not everything
 
 ## Content Quality Standards
 
-### Expertise, Authoritativeness, Trustworthiness (E-A-T)
+### E-E-A-T (Experience, Expertise, Authoritativeness, Trustworthiness)
+
+#### Experience
+- Lean on first-hand experience — the founders have run these searches and been engineers themselves
+- Use real placement scenarios and market observations, not generic advice
 
 #### Expertise
-- Provide accurate, detailed information on podcasting topics
-- Back claims with data and examples
-- Demonstrate deep understanding of podcast creator needs
-- Include actionable, practical advice
+- Accurate, specific detail on stacks, roles, and the hiring market
+- Back every claim with data or a concrete example
+- Actionable: a benchmark, timeline, screening question, or decision
 
 #### Authoritativeness
-- Cite credible sources
-- Reference industry data and trends
-- Include expert quotes when relevant
-- Leverage Castos's position as hosting platform
+- Cite credible sources; reference real market data
+- Leverage the engineer-founder positioning and our own market intelligence
+- Social proof where relevant: 5.0/5 on Clutch (7 reviews) — see `features.md`
 
 #### Trustworthiness
-- Be transparent and honest
-- Acknowledge limitations or challenges
-- Don't overpromise results
-- Cite sources for all statistics and claims
-- Update outdated content regularly
+- Honest — name uncomfortable truths (tax changes, counter-offers) instead of a clean story
+- Don't overpromise; source every statistic; keep content current
 
-### Content Originality
-- **Never plagiarize**: All content must be original
-- **Add unique value**: What perspective or insight do we add?
-- **Fresh examples**: Use current, relevant examples
-- **Updated data**: Use most recent statistics available
-- **Unique angle**: Differentiate from competitor content
+### Originality
+- Never plagiarise; add a first-hand, sourced angle competitors don't have
+- Current examples, most-recent data, a take that could only be Wise Step's
 
 ### Factual Accuracy
-- **Verify statistics**: Check all numbers and data points
-- **Current information**: Ensure practices/processes are up-to-date
-- **Technical accuracy**: Podcasting terminology and processes must be correct
-- **Castos features**: Ensure product references are accurate
+- Verify every statistic; keep processes/market facts current; technical terminology must be correct
+- Human review + fact-check is the publish gate — nothing ships without passing it
 
 ## Image Optimization
 
-### Image Requirements
-- **Relevant**: Images should support content points
-- **High-quality**: Professional appearance
-- **Optimized**: Compressed for fast loading
-- **Mobile-friendly**: Visible and useful on small screens
+### Requirements
+- Relevant, clean, compressed (WebP), mobile-friendly (Canva for assets)
 
 ### Image SEO
-**File Names**:
-- Descriptive and keyword-rich
-- ✅ `podcast-editing-software-interface.jpg`
-- ❌ `IMG_12345.jpg`
+- **File names**: descriptive, keyword-rich — ✅ `it-salaries-romania-2026-by-role.png` ❌ `IMG_1234.png`
+- **Alt text**: describe the image, keyword where natural, ≤125 chars, no "image of"
+- **Placement**: break up long sections; after the concept, not before
 
-**Alt Text**:
-- Describe what image shows (accessibility + SEO)
-- Include keywords naturally where relevant
-- 125 characters or less
-- ✅ "Podcast editing software interface showing waveform and timeline"
-- ❌ "Image"
+## AEO / AI Search Optimization
 
-**Placement**:
-- Break up long text sections
-- Illustrate concepts being discussed
-- After explaining concept, not before
+AI answer engines (ChatGPT, Perplexity, Gemini, Claude, Google AI Overviews) are a core channel for us — appearing in AI answers on Romania/CEE recruitment queries is an explicit goal. These rules make content perform in both classic search AND AI answers.
 
-## Featured Snippet Optimization
+### Direct-Answer-First
+AI pulls from the earliest clear answer on the page.
+- **Answer the query in the first 1–2 sentences**, before the narrative hook
+- For "best/how/what" queries, state the answer or thesis immediately
+- Put the core answer in the meta description too
+- Don't bury the answer behind 200 words of context
+- The reversal hook and intro still apply — they come *after* the direct answer
 
-Featured snippets appear at position 0 in Google search results. Optimize for them when possible.
-
-### Question-Based Snippets
-- Include question as H2 heading
-- Answer concisely in 40-60 words immediately after
-- Use clear, direct language
-
-**Example**:
-```markdown
-## What is Podcast Hosting?
-
-Podcast hosting is a service that stores your audio files and generates an RSS feed that distributes your episodes to podcast platforms like Apple Podcasts, Spotify, and Google Podcasts. Without a host, listeners can't discover or access your show on their favorite apps.
-```
-
-### List-Based Snippets
-- Use numbered or bulleted lists
-- Keep items concise (1-2 sentences each)
-- Include 5-8 items typically
-
-### Table-Based Snippets
-- Use HTML tables or markdown tables
-- Comparison charts, pricing, specifications
-- Clear headers and organized data
-
-### Definition Snippets
-- Define term in first sentence after heading
-- 40-60 word clear, concise definition
-- Expand with additional detail after
-
-## Mobile Optimization
-
-### Mobile-First Considerations
-- **Short paragraphs**: 2-3 sentences max
-- **Scannable**: Heavy use of subheadings and lists
-- **Large fonts**: Readable without zooming
-- **Tap-friendly links**: Adequate spacing
-- **Fast loading**: Optimized images
-
-## AI Search Optimization (GEO/AICO)
-
-AI search engines (ChatGPT, Perplexity, Gemini, Claude) are now a significant traffic and recommendation channel. 5-15% of website traffic can come from AI sources, and 90% of buyers consult AI before purchase decisions. These guidelines ensure your content performs in both traditional Google search AND AI-generated answers.
-
-### Direct-Answer-First Principle
-
-AI scrapers prioritize content near the top of the page. When a user asks ChatGPT "best project management tool" or "how to start a podcast," the AI scans articles and pulls from the earliest clear answer it finds.
-
-**Rules:**
-- **Answer the query directly in the first 1-2 sentences** of the article, before the narrative hook or story
-- For "best/top/how" queries, state the answer (or a clear thesis) immediately
-- Put the core answer in the meta description too — literally answer the question in 150-160 chars
-- Do NOT bury the answer behind 200+ words of context, history, or definitions
-- The narrative hook and APP formula still apply, but they come AFTER the direct answer sentence
-
-**Example — Before (traditional SEO):**
-> Most businesses struggle with choosing the right platform. In today's crowded market... [200 words later] ...the best option is X because...
-
-**Example — After (AI-optimized):**
-> The best project management tools in 2026 are Asana, Monday, and ClickUp — each optimized for different team sizes and workflows. Here's what separates them. [Then hook, story, depth]
+**Before**: "Hiring in Eastern Europe has changed a lot. For years companies… [200 words] …so the answer is speed."
+**After**: "In 2026, hire engineers in Romania in ~28–30 days by using a specialised recruiter for the scarce Cloud/DevOps and Data/AI roles job ads can't reach. Here's the playbook."
 
 ### TL;DR / Key Takeaways Block
-
-Every article should include a TL;DR block near the top (after the introduction, before the first H2 body section). This gets pulled into AI-generated summaries and helps both AI and human readers.
-
-**Format:**
+Include after the intro, before the first H2 body section.
 ```markdown
 > **Key Takeaways**
-> - [Core finding or recommendation #1]
-> - [Core finding or recommendation #2]
-> - [Core finding or recommendation #3]
-> - [Core finding or recommendation #4 if needed]
-> - [Core finding or recommendation #5 if needed]
+> - [Sourced finding #1 — with a number/name]
+> - [Sourced finding #2]
+> - [Sourced finding #3]
 ```
-
-**Rules:**
-- 3-5 bullet points maximum
-- Each bullet is a complete, standalone claim (not a teaser)
-- Use specific numbers, names, or outcomes — not vague summaries
-- This is NOT a table of contents — it's the article's actual conclusions up front
+- 3–5 bullets max; each a complete standalone claim (not a teaser)
+- Specific numbers/names/outcomes — these are the article's real conclusions up front
+- Not a table of contents
 
 ### Authority Signaling for AI
-
-AI models weight authoritativeness signals when choosing which sources to cite. Include these in every article:
-
-- **Author attribution**: Named author, not just "Team" or brand name
-- **Reviewer/editor credit**: "Reviewed by [name], [title]" where possible
-- **Last updated date**: Visible on the page, not just in metadata
-- **Expert verification badge**: Where applicable, note content has been expert-reviewed
-- **Year in titles**: Include current year for time-sensitive topics ("Best X Tools 2026")
-
-These signals should be in the article's frontmatter for the WordPress publisher to render.
+Include in every article (in frontmatter for the Astro build to render):
+- **Named author** — Calin Muresan (the blog's author voice), not "Team"
+- **Reviewer/editor credit** where applicable
+- **Visible last-updated date** on the page
+- **Year in title** for time-sensitive topics ("IT Salaries in Romania 2026")
+- **Sourced claims throughout** — the single strongest signal for us
 
 ### One Idea Per Section
-
-AI models parse content by section. Each H2/H3 section should focus on a single clear idea. This increases the chance that a specific section gets cited as a source in AI answers.
-
-- One concept per heading
-- Use bullet lists and structured formatting within sections
-- Avoid long flowing paragraphs that blend multiple topics
-
-### Embedded Media for Cross-Validation
-
-AI models (especially Perplexity and Gemini) reference YouTube videos alongside articles. Embedding relevant YouTube videos in articles:
-- Provides cross-validation (the article references a video that references the same topic)
-- Increases time on page (Google signal)
-- Adds a content format AI can independently verify
-
-**Rule:** Embed at least one relevant YouTube video per article where it adds context. Prefer your own videos, then authoritative third-party videos.
+AI parses by section — each H2/H3 covers one clear idea, so a specific section can be cited cleanly. Use lists/tables within sections; avoid paragraphs that blend topics.
 
 ### FAQ Sections as Prompt Targets
+Double duty: Google's People Also Ask + the question format users type into ChatGPT/Perplexity.
+- Write questions in natural prompt language (how people actually ask)
+- Answer directly in the first sentence, then expand
+- 4–6 questions per article
+- Source questions from real client questions, Reddit, search suggestions
 
-FAQ sections serve double duty: they target Google's People Also Ask AND they match the question-answer format that ChatGPT/Perplexity users type as prompts.
+### Bilingual (EN/RO) for AEO
+- Publish both EN and RO — RO captures local queries AI answers in Romanian
+- Translate the meaning and the sharp voice, not word-for-word
+- Mirror structure, slug, and FAQ across both
+- Keep stack/role names identical in both languages
 
-- Write FAQ questions in natural prompt language (how real people ask, not SEO-speak)
-- Answer each question directly in the first sentence, then expand
-- Include 4-6 questions per article
-- Questions should come from actual user research (Reddit, YouTube comments, search suggestions)
-
-### Content Repurposing for AI Citation Surface
-
-AI tools pull from many surfaces beyond your website: Medium, LinkedIn Pulse, Reddit, Quora, YouTube transcripts. One article should be repurposed across multiple platforms to maximize the chance of being cited.
-
-This is handled by the `/repurpose` command, but writers should be aware: the more surfaces your content appears on (with attribution back to your site), the higher the chance AI recommends it.
+### Content Repurposing for Citation Surface
+AI pulls from LinkedIn, Medium, Reddit, Quora, YouTube transcripts — not just the site. Repurpose each article across surfaces (LinkedIn is our primary distribution) with attribution back to wise-step.ro. Handled via `/repurpose`; writers should keep it in mind.
 
 ### AI Citation Audit
-
-For competitive topics, audit which sources AI actually cites. See `context/ai-citation-targets.md` for priority citation surfaces and the `/research-ai-citations` command for prompt-based auditing.
+For competitive topics, audit which sources AI actually cites. See `context/ai-citation-targets.md` and the `/research-ai-citations` command.
 
 ## Content Refresh Strategy
 
-### When to Update Content
-- Article is 12+ months old
-- Statistics or data are outdated
-- Processes or best practices have changed
-- Competitor content has surpassed ours
-- Rankings have declined
-- New relevant information available
+### When to Update
+- 12+ months old; outdated stats (salary bands move); changed market/regulation; competitor content surpassed ours; rankings declined; new data available
 
 ### What to Update
-- Publication date or "Last Updated" date
-- Statistics with current data
-- Screenshots with current versions
-- Examples with recent case studies
-- SEO elements (keyword focus may have shifted)
-- Internal links to newer content
+- Last-updated date; stats with current data; examples/benchmarks; SEO focus if the keyword shifted; internal links to newer posts
+- Salary and market figures especially — they date fast
 
-## SEO Checklist for Every Article
-
-Before publishing, verify:
+## SEO & AEO Checklist for Every Article
 
 ### Content
-- [ ] 2,000+ words (or appropriate for content type)
-- [ ] Primary keyword identified
-- [ ] Keyword density 1-2%
-- [ ] 3-5 secondary keywords included
-- [ ] LSI keywords naturally integrated
-- [ ] Provides unique value vs. competitors
-- [ ] Factually accurate and current
+- [ ] Appropriate length for type
+- [ ] Primary keyword identified; density ~1–2%
+- [ ] 3–5 secondary keywords; semantic terms integrated
+- [ ] Unique, first-hand value vs. competitors
+- [ ] Every statistic sourced — no unsourced claims or invented figures
 
 ### Structure
-- [ ] One H1 with primary keyword
-- [ ] 4-7 H2 sections
-- [ ] 2-3 H2s include keyword variations
-- [ ] Proper H1>H2>H3 hierarchy
-- [ ] Keyword in first 100 words
-- [ ] Keyword in conclusion
+- [ ] One H1 with keyword; 4–7 H2s; 2–3 with keyword variations
+- [ ] Proper H1>H2>H3 hierarchy; sentence-case headings
+- [ ] Keyword in first 100 words and conclusion
 
-### Meta Elements
-- [ ] Meta title 50-60 characters with keyword
-- [ ] Meta description 150-160 characters with keyword & CTA
-- [ ] URL slug includes primary keyword
-- [ ] All meta elements are unique
+### Meta
+- [ ] Title 50–60 chars with keyword, no hype
+- [ ] Description 150–160 chars, answers the query, has CTA
+- [ ] Slug has keyword; RO version mirrored
+- [ ] All meta unique
 
 ### Links
-- [ ] 3-5 internal links included
-- [ ] Internal links use descriptive anchor text
-- [ ] 2-3 external authority links
-- [ ] All links functional (no broken links)
-- [ ] Links add value to reader
+- [ ] 3–5 internal links from `internal-links-map.md`, descriptive varied anchors
+- [ ] 2–3 external authority links; every stat cited
+- [ ] All functional; EN↔RO matched
 
 ### Readability
-- [ ] 8th-10th grade reading level
-- [ ] Average sentence length 15-20 words
-- [ ] Paragraphs 2-4 sentences
-- [ ] Subheadings every 300-400 words
-- [ ] Lists used for scannability
-- [ ] Active voice predominantly
+- [ ] Plain but authoritative; mixed sentence length; active voice
+- [ ] Paragraphs 2–4 sentences; subheading every ~300–400 words; lists/tables used
 
 ### Images
-- [ ] Relevant images included
-- [ ] Descriptive file names
-- [ ] Alt text with keywords
-- [ ] Images optimized for web
+- [ ] Relevant; descriptive file names; keyword alt text ≤125 chars; WebP/optimised
 
-### AI Search Optimization
-- [ ] Direct answer in first 1-2 sentences (not buried)
-- [ ] TL;DR / Key Takeaways block after introduction
-- [ ] Meta description directly answers the target query
-- [ ] FAQ questions written in natural prompt language
-- [ ] At least one embedded YouTube video
-- [ ] Author attribution (named, not generic "Team")
-- [ ] Last updated date included
-- [ ] Year included in title for time-sensitive topics
+### AEO
+- [ ] Direct answer in first 1–2 sentences (not buried)
+- [ ] Key Takeaways block after intro
+- [ ] Meta description answers the target query
+- [ ] FAQ (4–6) in natural prompt language
+- [ ] Named author (Calin Muresan); visible last-updated date
+- [ ] Year in title for time-sensitive topics
+- [ ] RO version published and mirrored
 
-### Quality
-- [ ] No spelling or grammar errors
-- [ ] Factually accurate
-- [ ] Sources cited
-- [ ] Brand voice maintained
-- [ ] Provides actionable value
-- [ ] Clear call-to-action
+### Quality (deal-breakers)
+- [ ] No spelling/grammar errors
+- [ ] Factually accurate; sources cited
+- [ ] Brand voice — sharp, anti-hype, could only be Wise Step
+- [ ] Actionable takeaway; honest CTA
+- [ ] No hype adjectives, corporate fluff, or "family" tone
 
 ## SEO Tools & Resources
 
-### Recommended Tools
-- **Keyword Research**: Ahrefs, SEMrush, Google Keyword Planner
-- **Content Analysis**: Clearscope, Surfer SEO, MarketMuse
-- **Readability**: Hemingway Editor, Grammarly
-- **Technical SEO**: Screaming Frog, Google Search Console
-- **Rank Tracking**: Ahrefs, SEMrush, Google Search Console
+### Tools we use
+- **Rankings/measurement**: Google Search Console
+- **Keyword/SERP data**: DataForSEO (via this repo's scripts)
+- **Distribution + topic spotting**: LinkedIn
+- **Drafting/translation/AEO planning**: Claude (Projects + skills)
+- **Visuals**: Canva
+- **Publish**: GitHub commit → Cloudflare Pages deploy
 
-### Reference Resources
-- Google's Search Quality Evaluator Guidelines
-- Moz Beginner's Guide to SEO
-- Backlinko Blog (Brian Dean)
-- Search Engine Journal
-- Ahrefs Blog
+### Reference
+- Google Search Quality Evaluator Guidelines
+- Search Engine Journal, Ahrefs Blog, Backlinko (general SEO)
+- Eurostat / INS / ANIS (Romanian & EU market data), Stack Overflow Developer Survey (developer data)
 
 ---
 
-**Remember**: SEO serves the user, not the algorithm. Never sacrifice content quality, accuracy, or helpfulness for keyword optimization. The best SEO is great content that genuinely helps your audience succeed.
+**Remember**: SEO and AEO serve the reader. Never trade accuracy, honesty, or a sourced claim for a keyword. The best ranking signal we have is content that could only have been written by engineers who've done the work — sharp, sourced, and genuinely useful.

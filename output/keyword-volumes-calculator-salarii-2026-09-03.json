@@ -1,0 +1,562 @@
+{
+  "measured": "2026-09-03T13:16:11.549269",
+  "cost_usd": 0.44999999999999996,
+  "results": {
+    "Romania|ro": [
+      {
+        "intent": "tool",
+        "keyword": "calculator salarii",
+        "search_volume": 14800,
+        "competition": "LOW",
+        "cpc": 1.39
+      },
+      {
+        "intent": "tool",
+        "keyword": "calculator salariu",
+        "search_volume": 14800,
+        "competition": "LOW",
+        "cpc": 1.39
+      },
+      {
+        "intent": "tool",
+        "keyword": "calculator salariu net",
+        "search_volume": 90500,
+        "competition": "LOW",
+        "cpc": 1.12
+      },
+      {
+        "intent": "tool",
+        "keyword": "calculator salariu brut net",
+        "search_volume": 4400,
+        "competition": "LOW",
+        "cpc": 1.15
+      },
+      {
+        "intent": "tool",
+        "keyword": "calcul salariu net",
+        "search_volume": 33100,
+        "competition": "LOW",
+        "cpc": 0.59
+      },
+      {
+        "intent": "tool",
+        "keyword": "din brut in net",
+        "search_volume": 390,
+        "competition": "LOW",
+        "cpc": 0.35
+      },
+      {
+        "intent": "tool",
+        "keyword": "brut net",
+        "search_volume": 9900,
+        "competition": "LOW",
+        "cpc": 1.51
+      },
+      {
+        "intent": "tool",
+        "keyword": "calculator salariu net 2026",
+        "search_volume": 2400,
+        "competition": "LOW",
+        "cpc": 0.87
+      },
+      {
+        "intent": "tool",
+        "keyword": "calculator salariu net brut",
+        "search_volume": 260,
+        "competition": "LOW",
+        "cpc": 1.37
+      },
+      {
+        "intent": "tool",
+        "keyword": "calculator venit net",
+        "search_volume": 390,
+        "competition": "LOW",
+        "cpc": 2.4
+      },
+      {
+        "intent": "employer_cost",
+        "keyword": "cost angajator",
+        "search_volume": null,
+        "competition": null,
+        "cpc": null
+      },
+      {
+        "intent": "employer_cost",
+        "keyword": "cost total angajator",
+        "search_volume": null,
+        "competition": null,
+        "cpc": null
+      },
+      {
+        "intent": "employer_cost",
+        "keyword": "cat costa un angajat",
+        "search_volume": null,
+        "competition": null,
+        "cpc": null
+      },
+      {
+        "intent": "employer_cost",
+        "keyword": "costul unui angajat",
+        "search_volume": null,
+        "competition": null,
+        "cpc": null
+      },
+      {
+        "intent": "employer_cost",
+        "keyword": "calculator cost angajator",
+        "search_volume": null,
+        "competition": null,
+        "cpc": null
+      },
+      {
+        "intent": "employer_cost",
+        "keyword": "calculator taxe salariale",
+        "search_volume": 260,
+        "competition": "LOW",
+        "cpc": 0.11
+      },
+      {
+        "intent": "employer_cost",
+        "keyword": "calculator contributii salariale",
+        "search_volume": 10,
+        "competition": "LOW",
+        "cpc": null
+      },
+      {
+        "intent": "employer_cost",
+        "keyword": "impozit pe salariu",
+        "search_volume": 390,
+        "competition": "LOW",
+        "cpc": null
+      },
+      {
+        "intent": "it_qualified",
+        "keyword": "calculator salariu it",
+        "search_volume": 210,
+        "competition": "LOW",
+        "cpc": null
+      },
+      {
+        "intent": "it_qualified",
+        "keyword": "calculator salariu programator",
+        "search_volume": 10,
+        "competition": "LOW",
+        "cpc": null
+      },
+      {
+        "intent": "it_qualified",
+        "keyword": "salariu net programator it",
+        "search_volume": null,
+        "competition": null,
+        "cpc": null
+      },
+      {
+        "intent": "it_qualified",
+        "keyword": "taxe salariale 2026",
+        "search_volume": 30,
+        "competition": "LOW",
+        "cpc": null
+      },
+      {
+        "intent": "it_qualified",
+        "keyword": "salariu brut",
+        "search_volume": 9900,
+        "competition": "LOW",
+        "cpc": 0.05
+      },
+      {
+        "intent": "it_qualified",
+        "keyword": "salariu net",
+        "search_volume": 14800,
+        "competition": "LOW",
+        "cpc": 1.13
+      },
+      {
+        "intent": "it_qualified",
+        "keyword": "calculator salariu 2026",
+        "search_volume": 1000,
+        "competition": "LOW",
+        "cpc": 1.21
+      },
+      {
+        "intent": "it_qualified",
+        "keyword": "salariu net 2026",
+        "search_volume": 320,
+        "competition": "LOW",
+        "cpc": null
+      },
+      {
+        "intent": "it_qualified",
+        "keyword": "calculator salariu minim",
+        "search_volume": 390,
+        "competition": "LOW",
+        "cpc": 2.23
+      },
+      {
+        "intent": "adjacent",
+        "keyword": "calculator salariu freelancer",
+        "search_volume": null,
+        "competition": null,
+        "cpc": null
+      },
+      {
+        "intent": "adjacent",
+        "keyword": "calculator pfa",
+        "search_volume": 1900,
+        "competition": "LOW",
+        "cpc": 0.35
+      },
+      {
+        "intent": "adjacent",
+        "keyword": "calculator impozit salariu",
+        "search_volume": 140,
+        "competition": "LOW",
+        "cpc": null
+      }
+    ],
+    "Romania|en": [
+      {
+        "intent": "en",
+        "keyword": "salary calculator romania",
+        "search_volume": 320,
+        "competition": "LOW",
+        "cpc": 0.37
+      },
+      {
+        "intent": "en",
+        "keyword": "romania salary calculator",
+        "search_volume": 320,
+        "competition": "LOW",
+        "cpc": 0.37
+      },
+      {
+        "intent": "en",
+        "keyword": "net salary calculator romania",
+        "search_volume": 90,
+        "competition": "LOW",
+        "cpc": 0.01
+      },
+      {
+        "intent": "en",
+        "keyword": "romania payroll calculator",
+        "search_volume": null,
+        "competition": null,
+        "cpc": null
+      },
+      {
+        "intent": "en",
+        "keyword": "gross to net romania",
+        "search_volume": 260,
+        "competition": "LOW",
+        "cpc": 0.48
+      },
+      {
+        "intent": "en",
+        "keyword": "employer cost calculator romania",
+        "search_volume": null,
+        "competition": null,
+        "cpc": null
+      },
+      {
+        "intent": "en",
+        "keyword": "romania income tax calculator",
+        "search_volume": 10,
+        "competition": "LOW",
+        "cpc": null
+      },
+      {
+        "intent": "en",
+        "keyword": "cost of hiring in romania",
+        "search_volume": null,
+        "competition": null,
+        "cpc": null
+      },
+      {
+        "intent": "en",
+        "keyword": "romania employer costs",
+        "search_volume": null,
+        "competition": null,
+        "cpc": null
+      },
+      {
+        "intent": "en",
+        "keyword": "cost to hire a developer in romania",
+        "search_volume": null,
+        "competition": null,
+        "cpc": null
+      },
+      {
+        "intent": "en",
+        "keyword": "employer of record romania",
+        "search_volume": 10,
+        "competition": "HIGH",
+        "cpc": 81.26
+      },
+      {
+        "intent": "en",
+        "keyword": "romania payroll taxes",
+        "search_volume": 10,
+        "competition": null,
+        "cpc": null
+      }
+    ],
+    "United Kingdom|en": [
+      {
+        "intent": "en",
+        "keyword": "salary calculator romania",
+        "search_volume": 20,
+        "competition": "LOW",
+        "cpc": null
+      },
+      {
+        "intent": "en",
+        "keyword": "romania salary calculator",
+        "search_volume": 20,
+        "competition": "LOW",
+        "cpc": null
+      },
+      {
+        "intent": "en",
+        "keyword": "net salary calculator romania",
+        "search_volume": 10,
+        "competition": "LOW",
+        "cpc": null
+      },
+      {
+        "intent": "en",
+        "keyword": "romania payroll calculator",
+        "search_volume": null,
+        "competition": null,
+        "cpc": null
+      },
+      {
+        "intent": "en",
+        "keyword": "gross to net romania",
+        "search_volume": 10,
+        "competition": "LOW",
+        "cpc": null
+      },
+      {
+        "intent": "en",
+        "keyword": "employer cost calculator romania",
+        "search_volume": null,
+        "competition": null,
+        "cpc": null
+      },
+      {
+        "intent": "en",
+        "keyword": "romania income tax calculator",
+        "search_volume": 10,
+        "competition": "LOW",
+        "cpc": null
+      },
+      {
+        "intent": "en",
+        "keyword": "cost of hiring in romania",
+        "search_volume": null,
+        "competition": null,
+        "cpc": null
+      },
+      {
+        "intent": "en",
+        "keyword": "romania employer costs",
+        "search_volume": null,
+        "competition": null,
+        "cpc": null
+      },
+      {
+        "intent": "en",
+        "keyword": "cost to hire a developer in romania",
+        "search_volume": null,
+        "competition": null,
+        "cpc": null
+      },
+      {
+        "intent": "en",
+        "keyword": "employer of record romania",
+        "search_volume": 10,
+        "competition": "HIGH",
+        "cpc": null
+      },
+      {
+        "intent": "en",
+        "keyword": "romania payroll taxes",
+        "search_volume": 10,
+        "competition": null,
+        "cpc": null
+      }
+    ],
+    "United States|en": [
+      {
+        "intent": "en",
+        "keyword": "salary calculator romania",
+        "search_volume": 10,
+        "competition": "LOW",
+        "cpc": null
+      },
+      {
+        "intent": "en",
+        "keyword": "romania salary calculator",
+        "search_volume": 10,
+        "competition": "LOW",
+        "cpc": null
+      },
+      {
+        "intent": "en",
+        "keyword": "net salary calculator romania",
+        "search_volume": 10,
+        "competition": null,
+        "cpc": null
+      },
+      {
+        "intent": "en",
+        "keyword": "romania payroll calculator",
+        "search_volume": null,
+        "competition": null,
+        "cpc": null
+      },
+      {
+        "intent": "en",
+        "keyword": "gross to net romania",
+        "search_volume": 10,
+        "competition": "LOW",
+        "cpc": null
+      },
+      {
+        "intent": "en",
+        "keyword": "employer cost calculator romania",
+        "search_volume": null,
+        "competition": null,
+        "cpc": null
+      },
+      {
+        "intent": "en",
+        "keyword": "romania income tax calculator",
+        "search_volume": 10,
+        "competition": "LOW",
+        "cpc": null
+      },
+      {
+        "intent": "en",
+        "keyword": "cost of hiring in romania",
+        "search_volume": null,
+        "competition": null,
+        "cpc": null
+      },
+      {
+        "intent": "en",
+        "keyword": "romania employer costs",
+        "search_volume": null,
+        "competition": null,
+        "cpc": null
+      },
+      {
+        "intent": "en",
+        "keyword": "cost to hire a developer in romania",
+        "search_volume": null,
+        "competition": null,
+        "cpc": null
+      },
+      {
+        "intent": "en",
+        "keyword": "employer of record romania",
+        "search_volume": 20,
+        "competition": "LOW",
+        "cpc": null
+      },
+      {
+        "intent": "en",
+        "keyword": "romania payroll taxes",
+        "search_volume": 10,
+        "competition": null,
+        "cpc": null
+      }
+    ],
+    "Germany|en": [
+      {
+        "intent": "en",
+        "keyword": "salary calculator romania",
+        "search_volume": 10,
+        "competition": "LOW",
+        "cpc": null
+      },
+      {
+        "intent": "en",
+        "keyword": "romania salary calculator",
+        "search_volume": 10,
+        "competition": "LOW",
+        "cpc": null
+      },
+      {
+        "intent": "en",
+        "keyword": "net salary calculator romania",
+        "search_volume": 10,
+        "competition": "LOW",
+        "cpc": null
+      },
+      {
+        "intent": "en",
+        "keyword": "romania payroll calculator",
+        "search_volume": null,
+        "competition": null,
+        "cpc": null
+      },
+      {
+        "intent": "en",
+        "keyword": "gross to net romania",
+        "search_volume": 10,
+        "competition": "LOW",
+        "cpc": null
+      },
+      {
+        "intent": "en",
+        "keyword": "employer cost calculator romania",
+        "search_volume": null,
+        "competition": null,
+        "cpc": null
+      },
+      {
+        "intent": "en",
+        "keyword": "romania income tax calculator",
+        "search_volume": 10,
+        "competition": null,
+        "cpc": null
+      },
+      {
+        "intent": "en",
+        "keyword": "cost of hiring in romania",
+        "search_volume": null,
+        "competition": null,
+        "cpc": null
+      },
+      {
+        "intent": "en",
+        "keyword": "romania employer costs",
+        "search_volume": null,
+        "competition": null,
+        "cpc": null
+      },
+      {
+        "intent": "en",
+        "keyword": "cost to hire a developer in romania",
+        "search_volume": null,
+        "competition": null,
+        "cpc": null
+      },
+      {
+        "intent": "en",
+        "keyword": "employer of record romania",
+        "search_volume": 10,
+        "competition": null,
+        "cpc": null
+      },
+      {
+        "intent": "en",
+        "keyword": "romania payroll taxes",
+        "search_volume": 0,
+        "competition": null,
+        "cpc": null
+      }
+    ]
+  }
+}

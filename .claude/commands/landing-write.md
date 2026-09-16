@@ -58,7 +58,7 @@ Use this command to create high-converting landing pages optimized for either or
 
 [HOOK: 2-3 sentences. Start with pain point, surprising stat, or question]
 
-[Trust signal: "Join 50,000+ customers" or customer results]
+[Trust signal: only sourced proof — Clutch 5.0/5 across 7 reviews, named clients from public reviews, or a real benchmark like 28-30 day time to fill. Never invent a customer count.]
 
 **[Primary CTA Button →]**
 
@@ -70,7 +70,7 @@ Use this command to create high-converting landing pages optimized for either or
 
 ## [H2: Solution Overview]
 
-[Introduce how [YOUR COMPANY] solves this problem]
+[Introduce how Wise Step solves this problem]
 
 **Key Benefits:**
 - **[Benefit 1]** - [One sentence]
@@ -125,7 +125,7 @@ Use this command to create high-converting landing pages optimized for either or
 
 **[Strong CTA Button →]**
 
-[Risk reversal: "Free trial • No credit card • Cancel anytime"]
+[Risk reversal: "No obligation • Reply within one business day • 3-6 month replacement guarantee"]
 ```
 
 ---
@@ -151,11 +151,11 @@ Use this command to create high-converting landing pages optimized for either or
 
 [One-sentence value proposition matching the ad]
 
-[Trust signal: "Trusted by 50,000+ customers"]
+[Trust signal: named clients citable from public Clutch reviews, or a published benchmark. No invented figures.]
 
 **[Primary CTA Button - Large and Prominent →]**
 
-## [H2: Why [Audience] Choose [YOUR COMPANY]]
+## [H2: Why [Audience] Choose Wise Step]
 
 - **[Benefit 1]** - [One sentence max]
 - **[Benefit 2]** - [One sentence max]
@@ -189,20 +189,22 @@ Use this command to create high-converting landing pages optimized for either or
 ### Trial Goal (--goal trial)
 
 **Primary CTAs:**
-- "Start Your Free Trial →"
+- "Brief your search →"
 - "Try Free for 14 Days →"
 - "Get Started Free →"
 
 **Supporting Copy Required:**
 - "No credit card required"
-- Trial length mentioned
-- "Cancel anytime"
-- "Set up in minutes"
+- No-obligation framing ("a clear plan, no obligations")
+- Response time ("we reply within one business day")
+- What the first call actually covers
 
 **Trust Signals to Include:**
-- Producter count
-- Ease of setup
-- No commitment messaging
+- Clutch rating (5.0/5, 7 reviews) and named clients from public reviews
+- Engineer-led screening — founders are former software engineers
+- Replacement guarantee (3-6 months)
+- Real benchmarks: 10-15 days to first candidates, 28-30 days to fill
+- Never a fabricated customer or placement count
 
 ### Demo Goal (--goal demo)
 

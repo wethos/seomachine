@@ -1,6 +1,6 @@
 # Analyze Existing Command
 
-Use this command to review and analyze existing your company blog posts for SEO opportunities, content gaps, and improvement areas.
+Use this command to review and analyze existing Wise Step blog posts for SEO opportunities, content gaps, and improvement areas.
 
 ## Usage
 `/analyze-existing [URL or file path]`
@@ -107,7 +107,7 @@ After completing the analysis, automatically save the report to:
 - **File Format**: Markdown with scores, recommendations, and action items
 - **Naming Convention**: Use lowercase, hyphenated post slug and current date
 
-Example: `research/analysis-podcast-hosting-guide-2025-10-15.md`
+Example: `research/analysis-it-salaries-romania-2026-08-12.md`
 
 ## Next Steps
 Based on the analysis, the system will suggest:
@@ -115,4 +115,4 @@ Based on the analysis, the system will suggest:
 2. Running `/optimize [file]` if content needs light SEO polish
 3. Archiving the post if it's no longer relevant or valuable
 
-This ensures every analysis leads to clear, actionable next steps for improving your company blog content.
+This ensures every analysis leads to clear, actionable next steps for improving Wise Step blog content.

@@ -43,13 +43,17 @@ After the direct answer, use a hook to keep human readers engaged.
 
 **Choose ONE hook type for each article:**
 
+**Default to the reversal opener** ("used to be X, now it's Y") when no stronger structure fits — it is the house hook. See `context/brand-voice.md`.
+
 | Hook Type | Example | Best For |
 |-----------|---------|----------|
-| **Provocative Question** | "What if the 'free' plan is actually costing you $500/month in lost opportunities?" | Challenging assumptions |
-| **Specific Scenario** | "Last Tuesday, Sarah checked her dashboard and discovered something alarming: her site had been invisible to Google for three weeks." | Creating emotional connection |
-| **Surprising Statistic** | "73% of SaaS users who switch platforms do so within 18 months, and most cite the same three reasons." | Data-driven topics |
-| **Bold Statement** | "Your current tool is lying to you about your numbers." | Controversial takes |
-| **Counterintuitive Claim** | "The cheapest option might be the most expensive decision you make this year." | Comparison content |
+| **Reversal (default)** | "Romania used to be a cost play. In 2026, it's a speed play." | Overturning a lazy assumption |
+| **Sourced Statistic** | "IT salaries rose 5% in H1 2026. Inflation ran 10.4%." | Data-driven topics |
+| **Contradiction** | "Romania ranks 7th of 11 in CEE for AI. Its high schoolers rank 4th of 108 in the world." | Two true facts that appear to conflict |
+| **Bold Statement** | "This is not generic HR." | Positioning and differentiation |
+| **Uncomfortable Truth** | "The standard counter-offer lands within 48 hours. Nobody warns you." | Naming friction competitors hide |
+
+Every hook must carry a number, a named fact, or a sourced claim. A hook that is exciting but empty is wrong.
 
 **After the hook, follow the APP Formula:**
 - **Agree**: Acknowledge something the reader already believes/feels
@@ -88,24 +92,22 @@ This gets pulled into AI-generated summaries and helps both AI and human readers
 - **Depth**: Provide thorough, actionable information at each point
 - **Data**: Reference statistics and studies to support claims
 - **Visuals**: Note where images, screenshots, or graphics enhance understanding
-- **YouTube Embed**: Include at least one relevant YouTube video (prefer your own channel, then authoritative third-party) — AI models cross-reference video and article content
+- **Video (optional, only if genuinely available)**: Embed a video only when Wise Step has published one on the topic. Do NOT embed a third-party video to satisfy a checklist — an unvetted video can contradict our sourced figures on the same page. Skip it and note the gap instead.
 - **Lists**: Use bulleted or numbered lists for scannability
 - **Formatting**: Bold key concepts, use short paragraphs (2-4 sentences MAX)
 
-**REQUIRED: Mini-Stories (2-3 per article)**
+**REQUIRED: Concrete grounding (2-3 per article)**
 
-Research shows we're 22x more likely to remember facts wrapped in stories. Every article MUST include 2-3 mini-scenarios with:
-- A **specific person** (use names, even if fictional: "Sarah," "Mike," "The team at Acme Corp")
-- A **concrete situation** with details (dates, numbers, specifics)
-- A **clear outcome** that illustrates the point
+> ⛔ **Never invent a person, company, client, or anecdote.** No fictional names, no "Sarah," no "the team at Acme Corp," no composite case studies presented as real. Fabricated examples are a deal-breaker under `context/brand-voice.md` — every claim earns its place with a number, a named fact, or a source. This rule outranks any engagement technique.
 
-**Example mini-story (aim for 50-150 words each):**
-> "When Marcus launched his SaaS product in March 2024, he chose the cheapest hosting plan he could find, $5/month seemed like a no-brainer. Six months later, his app hit 10,000 active users. That's when he discovered the hidden bandwidth fees buried in his provider's terms. His $5/month plan suddenly became $89/month. Worse, migrating mid-growth meant a 3-week gap in analytics that cost him a $2,000 partnership deal. The 'savings' from cheap hosting cost him over $3,000."
+Ground the argument in specifics drawn from one of these **permitted** sources:
 
-**Place mini-stories:**
-- One in the introduction or early section (to hook readers)
-- One in the middle (to re-engage skimmers)
-- One near the conclusion (to reinforce the main point)
+1. **First-hand market observation** — what we actually see running searches. "The question we get from clients every week is…" Written in "we" voice, no invented detail.
+2. **Named, citable clients and testimonials** — only those already public on Clutch (see `context/features.md`), quoted verbatim and attributed by role and company.
+3. **Worked arithmetic on sourced figures** — walk the reader through a real calculation. "A candidate on RON 8,000 net needs RON 8,413 to match last year's purchasing power." This does the memorability job of a story without inventing anyone.
+4. **Named market events** — a tax change, a published salary release, a regulation with a date.
+
+**Placement**: one early (grounds the hook), one mid-article (re-engages skimmers), one near the conclusion (reinforces the takeaway).
 
 **REQUIRED: Contextual CTAs (2-3 per article)**
 
@@ -114,9 +116,11 @@ Don't just put one CTA at the end. Embedded CTAs get 121% more conversions than 
 **CTA Placement Strategy:**
 | Location | CTA Type | Example |
 |----------|----------|---------|
-| After first major value section | Soft CTA (learn more) | "Want to see how this works in practice? [Explore our features →]" |
-| After comparison/proof section | Medium CTA (try it) | "**Ready to test the difference?** Start a free trial, no credit card required." |
-| End of article | Strong CTA (convert) | "**[Start Your Free Trial →]**" with supporting text |
+| After first major value section | Soft (learn more) | "The role-level bands are in our [2026 Romanian salary guide]." |
+| After comparison/proof section | Medium (engage) | "Want the benchmark for your specific role and stack? That's what our [market intelligence] work covers." |
+| End of article | Strong (convert) | "Tell us what you're hiring for and we'll give you a straight read on what it takes to close in this market. [Brief your search]" |
+
+**Honest framing only** — no false urgency, no "limited time," no free-trial language (we don't sell a product). Never publish the fee percentage; public framing is "quoted per engagement." See `context/features.md`.
 
 **CTA Rules:**
 - Make CTAs contextual (relate to the section content)
@@ -127,7 +131,7 @@ Don't just put one CTA at the end. Embedded CTAs get 121% more conversions than 
 #### 5. Conclusion (150-200 words)
 - **Recap**: Summarize 3-5 key takeaways
 - **Action**: Provide clear next steps for reader
-- **CTA**: Include relevant call-to-action (free trial, resource download, etc.)
+- **CTA**: Include relevant call-to-action (brief a search, book a discovery call) — honest framing, tied to a benchmark or decision
 - **Encouragement**: End on empowering, forward-looking note
 
 ### SEO Optimization
@@ -166,7 +170,7 @@ Don't just put one CTA at the end. Embedded CTAs get 121% more conversions than 
 - **Practical Application**: Show how information applies to their specific challenges
 - **Product Integration**: Naturally mention how your features solve problems (reference @context/features.md)
 - **Industry Context**: Reference relevant trends and best practices
-- **Technical Accuracy**: Ensure terminology and processes are correct for your industry
+- **Technical Accuracy**: Ensure terminology and processes are correct for technical recruitment
 
 ### Brand Voice Consistency
 - Maintain your brand tone (reference @context/brand-voice.md for specifics)
@@ -209,7 +213,7 @@ Word Count: [actual word count]
 - [ ] 2-3 external authority links
 - [ ] Meta title 50-60 characters
 - [ ] Meta description 150-160 characters
-- [ ] Article 2000+ words
+- [ ] Length matches content type per `context/seo-guidelines.md` (standard 1,500-3,000 · pillar 3,000-5,000 · playbook 1,500-2,500 · market take 800-1,200)
 - [ ] Proper H2/H3 hierarchy
 - [ ] Readability optimized
 
@@ -217,7 +221,7 @@ Word Count: [actual word count]
 - [ ] **Direct answer**: First 1-2 sentences directly answer the target query
 - [ ] **Key Takeaways**: TL;DR block with 3-5 specific bullet points after introduction
 - [ ] **Meta description**: Directly answers the query (not just a teaser)
-- [ ] **YouTube embed**: At least one relevant video embedded
+- [ ] **Video**: embedded only if Wise Step published one on the topic (otherwise skip, and say so)
 - [ ] **FAQ prompts**: Questions written in natural language people would type into ChatGPT
 - [ ] **One idea per section**: Each H2/H3 focuses on a single clear concept
 - [ ] **Author attribution**: Named author in frontmatter
@@ -225,7 +229,7 @@ Word Count: [actual word count]
 ### 5. Engagement Checklist
 - [ ] **Hook**: Opens with question, scenario, statistic, or bold statement (NOT generic definition)
 - [ ] **APP Formula**: Introduction includes Agree, Promise, Preview elements
-- [ ] **Mini-stories**: 2-3 specific scenarios with names, details, and outcomes
+- [ ] **Concrete grounding**: 2-3 specifics, none of them invented
 - [ ] **Contextual CTAs**: 2-3 CTAs placed throughout (not just at end)
 - [ ] **First CTA**: Appears within first 500 words
 - [ ] **Paragraph length**: No paragraphs exceed 4 sentences
@@ -364,7 +368,7 @@ The `_REVIEW_NOTES.md` file contains:
 Every article must meet these requirements:
 
 ### Content Requirements
-- Minimum 2000 words (2500-3000+ preferred)
+- Length per content type in `context/seo-guidelines.md` — standard post 1,500-3,000, pillar 3,000-5,000, playbook 1,500-2,500, sharp market take 800-1,200. **Never pad to hit a count**; 2,000 sourced words beat 3,000 padded ones. If a research brief sets a tighter target, the brief wins.
 - Proper H1/H2/H3 hierarchy
 - Primary keyword naturally integrated
 - 3-5 internal links to your site content
@@ -377,7 +381,7 @@ Every article must meet these requirements:
 
 ### Engagement Requirements
 - **Compelling hook** in first 1-2 sentences (no generic openings)
-- **2-3 mini-stories** with specific names, details, and outcomes
+- **2-3 concrete groundings** from permitted sources (first-hand observation, public testimonial, worked arithmetic, named market event) — never invented
 - **2-3 contextual CTAs** distributed throughout (not just at end)
 - **First CTA within 500 words**
 - **No paragraphs longer than 4 sentences**

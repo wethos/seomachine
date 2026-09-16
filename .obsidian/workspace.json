@@ -1,0 +1,188 @@
+{
+  "main": {
+    "id": "acb1f529ce42b42b",
+    "type": "split",
+    "children": [
+      {
+        "id": "2cc3a6112bcb79d5",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ebeeb8bae272fc1c",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "2dd91a894856da02",
+    "type": "split",
+    "children": [
+      {
+        "id": "ba2a8b7dab79b546",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "dd7673bf04579c8d",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "e5b868f5e8d92eff",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "457be83676b61274",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "0fe83fc664d0e335",
+    "type": "split",
+    "children": [
+      {
+        "id": "547224b1f31dfb2d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "fcd002019ec1ecfa",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "research/cluster-strategy-utility-scale-solar-bess-romania-2026-06-04.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for cluster-strategy-utility-scale-solar-bess-romania-2026-06-04"
+            }
+          },
+          {
+            "id": "8fafac28411faa79",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "research/cluster-strategy-utility-scale-solar-bess-romania-2026-06-04.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from cluster-strategy-utility-scale-solar-bess-romania-2026-06-04"
+            }
+          },
+          {
+            "id": "bd0bfe19a274243a",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "87e06a58de6b9fa4",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
+            }
+          },
+          {
+            "id": "377a863159a8430b",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "research/cluster-strategy-utility-scale-solar-bess-romania-2026-06-04.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of cluster-strategy-utility-scale-solar-bess-romania-2026-06-04"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false
+    }
+  },
+  "active": "ebeeb8bae272fc1c",
+  "lastOpenFiles": [
+    "research/cluster-strategy-utility-scale-solar-bess-romania-2026-06-04.md",
+    "research/dataforseo-validation-utility-scale-solar-bess-romania-2026-06-05.md",
+    "drafts/utility-scale-solar-bess-romania-investment-guide-2026-06-04.md"
+  ]
+}

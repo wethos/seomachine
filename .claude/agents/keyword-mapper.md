@@ -132,7 +132,7 @@ Identify missing topically related terms that would strengthen relevance:
 ### 6. Cannibalization Risk Assessment
 
 #### Internal Keyword Conflict Check
-- Does this article's keyword overlap with other Castos content?
+- Does this article's keyword overlap with other Wise Step content? Check `context/target-keywords.md` and `internal-links-map.md`.
 - Is the search intent different enough to warrant separate pages?
 - Should this be merged with existing content?
 - Clear differentiation vs. potential cannibalization
@@ -140,7 +140,7 @@ Identify missing topically related terms that would strengthen relevance:
 #### Recommendations
 - If overlap exists: Suggest differentiation strategy
 - If cannibalization risk: Recommend consolidation or clearer targeting
-- Document related Castos pages targeting similar keywords
+- Document related Wise Step pages targeting similar keywords, and log any live pair on the cannibalisation watchlist in `target-keywords.md`
 
 ## Output Format
 
@@ -162,21 +162,21 @@ Identify missing topically related terms that would strengthen relevance:
 
 #### Critical Elements Status
 ```
-✓ H1 Headline: "How to Grow Your Podcast Audience in 2025"
+✓ H1 Headline: "How to hire DevOps engineers in Romania in 2026"
 ✓ First 100 Words: Appears at word 47
-✓ Meta Title: "How to Grow Your Podcast Audience | 12 Proven Strategies"
+✓ Meta Title: "How to Hire DevOps Engineers in Romania | Wise Step"
 ✓ Meta Description: Present
-✗ URL Slug: Missing (current: /blog/audience-growth-tips)
+✗ URL Slug: Missing (current: /blog/cloud-hiring-tips)
 ```
 
 #### Heading Analysis
 ```
-H1: ✓ "How to Grow Your Podcast Audience in 2025"
-H2 (Section 1): ✗ "Understanding Your Listeners"
-H2 (Section 2): ✓ "Content Strategies to Grow Podcast Audience"
-H2 (Section 3): ✗ "Promotion and Distribution Tactics"
-H2 (Section 4): ✓ "Engaging Your Podcast Audience"
-H2 (Section 5): ✗ "Measuring Growth and Success"
+H1: ✓ "How to hire DevOps engineers in Romania in 2026"
+H2 (Section 1): ✗ "What the market looks like right now"
+H2 (Section 2): ✓ "What a DevOps engineer in Romania actually costs"
+H2 (Section 3): ✗ "Where the talent lives"
+H2 (Section 4): ✓ "Screening questions for a DevOps hire in Romania"
+H2 (Section 5): ✗ "Timelines and offer structuring"
 
 Status: 2/5 H2s contain keyword (Target: 3/5)
 ```
@@ -191,85 +191,84 @@ Section 4 (1500-2000 words):    ████░░░░░░ 2 instances (Good
 Section 5 (2000-2400 words):    ██░░░░░░░░ 1 instance  (Low)
 Conclusion (2400-2600 words):   ████░░░░░░ 2 instances (Good)
 
-Total: 11 instances across 2600 words = 0.42% density (TOO LOW)
+Total: 11 instances across 2600 words = 0.42% density (LOW)
 ```
 
 ### Priority Recommendations
 
 #### Critical Fixes (Must Address)
-1. **Increase Overall Density to 1-2%**
+1. **Raise density toward the 1-2% band — but sanity-check the target first**
    - Current: 0.42% (11 instances)
-   - Target: 1.5% (39 instances)
-   - Need: +28 instances across 2600 words
+   - Reaching 1.5% would need +28 instances across 2600 words
+   - ⚠️ On low-volume Romanian/CEE terms, +28 forced instances will read as stuffing and can push the page onto a pillar's head term. If hitting the band requires unnatural repetition, say so explicitly and recommend a lower target with reasoning. Natural phrasing outranks the band.
 
 2. **Add to Section 3 (Currently Zero Instances)**
-   - Location: "Promotion and Distribution Tactics" section
-   - Suggested Addition: After paragraph about social media
-   - Revision: "Effective social media promotion is key to **growing your podcast audience** beyond your current listener base."
+   - Location: "Where the talent lives" section
+   - Suggested Addition: after the city-by-city table
+   - Revision: "Cluj and Timișoara are where most **DevOps engineers in Romania** cluster outside Bucharest."
 
 3. **Add Keyword to H2 Headings**
    - Current: 2/5 H2s include keyword
    - Target: 3/5 H2s
-   - Suggested Change: "Understanding Your Listeners" → "Understanding Your Podcast Audience"
+   - Suggested Change: "Where the talent lives" → "Where DevOps engineers in Romania actually are"
 
 #### Quick Wins (High Impact, Low Effort)
 1. **Update URL Slug**
-   - Current: /blog/audience-growth-tips
-   - Recommended: /blog/grow-podcast-audience
+   - Current: /blog/cloud-hiring-tips
+   - Recommended: /blog/hire-devops-engineers-romania
    - Impact: Keyword in URL structure
+   - RO mirror: check the slug table in `internal-links-map.md` — RO blog slugs take a `-ro` suffix and are not mechanically derivable
 
 2. **First 100 Words Enhancement**
    - Current: Keyword appears once
-   - Add variation: "podcast audience growth" or "growing your audience"
-   - Location: Second paragraph, after hook
+   - Add variation: "hiring DevOps talent in Romania"
+   - Location: Second paragraph, after the direct answer
 
 3. **Add to Section 1**
    - Current: Only 1 instance in 400 words
-   - Where: After listener persona discussion
-   - Suggestion: "Understanding your target **podcast audience** helps you create content that resonates and drives growth."
+   - Where: after the market-context paragraph
+   - Suggestion: "Demand for **DevOps engineers in Romania** has outpaced supply in every city we recruit in."
 
 #### Strategic Enhancements (Better Long-term)
-1. **LSI Keyword Integration**
-   - Add "listener growth" (appears in top 5 SERP results)
-   - Add "podcast downloads" (related success metric)
-   - Add "audience engagement" (quality over quantity theme)
+1. **Semantic Support**
+   - Add "SRE" and "platform engineering" (same cluster, see `target-keywords.md`)
+   - Add "Kubernetes" and "CI/CD" (stack terms buyers search)
+   - Add "cloud engineer" (adjacent role, overlapping demand)
 
 2. **Semantic Variations**
-   - Use "growing your audience" more frequently
-   - Include "podcast listeners" as variation
-   - Add "expand your reach" as natural alternative
+   - "recruiting DevOps talent in Romania"
+   - "Romanian DevOps engineers"
+   - "hiring for cloud infrastructure roles in Romania"
 
-3. **Natural Language Optimization**
-   - Replace some exact matches with conversational variations
-   - Use question format: "How do you grow your podcast audience?"
-   - Include common search variations in subheadings
+3. **Natural Language and Bilingual Optimization**
+   - Use question format for FAQ: "How do you assess a DevOps engineer in an interview?"
+   - **Check the RO version separately.** Romanian frequently carries higher volume than English on Romania-market topics. Never treat the RO keyword set as a translation of the EN one — map it against measured RO volumes.
 
 ### Specific Text Revisions
 
 #### Revision 1: Section 3 Addition
-**Current Location**: After paragraph on social media promotion
-**Current Text**: "Share episode snippets on social media platforms where your target audience spends time."
-**Revised Text**: "Share episode snippets on social media platforms where your **target podcast audience** spends time. Consistent promotion helps **grow your podcast audience** organically."
-**Added**: 2 keyword instances, both natural
+**Current Location**: after the city breakdown
+**Current Text**: "Cluj and Timișoara are where most of the talent clusters outside Bucharest."
+**Revised Text**: "Cluj and Timișoara are where most **DevOps engineers in Romania** cluster outside Bucharest."
+**Added**: 1 keyword instance, natural
 
 #### Revision 2: H2 Heading Update
-**Current**: "Understanding Your Listeners"
-**Revised**: "Understanding Your Podcast Audience"
+**Current**: "Where the talent lives"
+**Revised**: "Where DevOps engineers in Romania actually are"
 **Benefit**: Adds keyword to heading, maintains readability
 
 #### Revision 3: Conclusion Enhancement
-**Current**: "Implementing these strategies will help you build a loyal listener base."
-**Revised**: "Implementing these strategies will help you **grow your podcast audience** and build a loyal listener base that keeps coming back."
-**Added**: 1 keyword instance, enhances conclusion
+**Current**: "Get these four things right and the search closes in about a month."
+**Revised**: "Get these four things right and **hiring a DevOps engineer in Romania** closes in about a month — our average time to fill is 28-30 days."
+**Added**: 1 keyword instance, plus a sourced benchmark
 
-[Continue with 5-7 more specific revisions to reach target density]
+[Continue with additional specific revisions as the article warrants]
 
 ### Keyword Density Projection
-If all recommendations implemented:
-- Current Density: 0.42% (11 instances)
-- Projected Density: 1.5% (39 instances)
-- Added Instances: +28
-- Status: ✓ Within optimal 1-2% range
+State the projected density if all recommendations are implemented, and be honest when it lands below the guideline band:
+- Current Density: [X%] ([N] instances)
+- Projected Density: [X%] ([N] instances)
+- Status: ✓ within 1-2% / ⚠️ below band, deliberately — forcing more would trip stuffing patterns or collide with a pillar
 
 ### Integration Quality Score: [X/100]
 - Natural Language Flow: [X/25]
@@ -278,9 +277,11 @@ If all recommendations implemented:
 - Readability Maintained: [X/25]
 
 ### Cannibalization Check
-**Related Castos Content**:
-- [Article Title 1]: Targets "podcast growth strategies" (different enough)
-- [Article Title 2]: Targets "grow podcast downloads" (overlapping, monitor)
+**Related Wise Step Content**:
+- [Article Title 1]: targets "[keyword]" (different enough)
+- [Article Title 2]: targets "[keyword]" (overlapping, monitor)
+
+Also check for **factual contradictions**, not just keyword overlap — two live pages making opposite claims on the same metric is worse than cannibalisation, and it breaches the sourced-claims rule in `context/brand-voice.md`. Flag any you find as a publish blocker.
 
 **Recommendation**: ✓ No significant cannibalization risk / ⚠ Minor overlap, differentiate more / ❌ Consolidate with existing content
 
@@ -323,4 +324,4 @@ If all recommendations implemented:
 5. **User Intent Match**: Keywords should reflect how searchers think and talk
 6. **Sustainable SEO**: Natural optimization stands test of time and algorithm updates
 
-Your role is to ensure articles are optimized for target keywords while reading naturally and providing genuine value to podcast creators. Every keyword instance should feel intentional but effortless.
+Your role is to ensure articles are optimized for target keywords while reading naturally and providing genuine value to companies hiring technical talent in Romania and CEE. Every keyword instance should feel intentional but effortless — and never invent a search volume. Use measured figures from DataForSEO or Google Search Console, or label the term unmeasured.

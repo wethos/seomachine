@@ -61,7 +61,7 @@ Visitors decide within 5 seconds whether to stay. Evaluate:
 
 | Goal | Recommended CTAs |
 |------|------------------|
-| Trial | "Start Your Free Trial", "Try Free for 14 Days" |
+| Search brief | "Brief your search", "Talk to a founder" |
 | Demo | "Book Your Demo", "See It in Action" |
 | Lead | "Download the Free Guide", "Get Instant Access" |
 
@@ -80,7 +80,7 @@ Visitors decide within 5 seconds whether to stay. Evaluate:
 - Awards or certifications?
 
 **Risk Reversal:**
-- Free trial mentioned with duration?
+- Engagement model and next step made clear? (Never publish the fee percentage — see `context/features.md`)
 - "No credit card required" present?
 - "Cancel anytime" mentioned?
 - Placed near CTAs?
